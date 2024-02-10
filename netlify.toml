@@ -1,0 +1,22 @@
+# Redirect users with Turkish language preference
+[[redirects]]
+    from = "/*"
+    to = "/tr/:splat"
+    status = 301
+    force = false
+    conditions = {language = ["tr"]}
+
+# Redirect users with English language preference
+[[redirects]]
+    from = "/*"
+    to = "/en/:splat"
+    status = 301
+    force = false
+    conditions = {language = ["en"]}
+
+# Redirect users with no language preference (default)
+[[redirects]]
+    from = "/*"
+    to = "/en/:splat"
+    status = 301
+    force = false

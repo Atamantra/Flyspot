@@ -1,0 +1,31 @@
+#header
+
+- id: FLYSPOT
+  translation: "FLYSPOT"
+
+- id: Paragliding & Travel
+  translation: "Paragliding & Travel"
+
+- id: About
+  translation: "About"
+
+- id: Tours
+  translation: "Tours"
+
+- id: Get started
+  translation: "Get started"
+
+#Homepage Buttons
+
+- id: Learn More
+  translation: "Learn More"
+
+- id: Check Our Tours
+  translation: "Check Our Tours"
+
+- id: Book Now
+  translation: "Book Now"
+  
+- id: Yes,pick me!
+  translation: "Yes,pick me!"
+  

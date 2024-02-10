@@ -1,0 +1,26 @@
+@font-face {
+    font-display: swap;
+    font-family: 'RedHatDisplay';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/fonts/RedHatDisplay-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-display: swap;
+    font-family: 'RedHatDisplay';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/RedHatDisplay-Medium.woff2') format('woff2');
+}
+@font-face {
+    font-display: swap;
+    font-family: 'RedHatDisplay';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/fonts/RedHatDisplay-Regular.woff2') format('woff2');
+}
+
+:root {
+    --fontTitles: 'RedHatDisplay', sans-serif;
+    --fontBody: 'RedHatDisplay', sans-serif;
+}

@@ -105,3 +105,4 @@ The functionality is inspired by the many [Gutenberg Block Plugins](https://wpas
 # Flyspot
 # Flyspot
 # Flyspot
+# flyspotnew

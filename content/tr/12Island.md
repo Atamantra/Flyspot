@@ -9,7 +9,7 @@ url: /tr/12Island/
 
 {{< brick_title >}}
 # 12 Island Boat Trip
-Explore Turkey's natural beauty, rich culture, and ancient cities. Boat trips in Fethiye are getting more popular, especially in the summer. Fethiye is a great spot for boat trips in Turkey. There are many options for boat trips from Fethiye Harbour. You can go on daily boat trips to beautiful islands with a lot of history. Our trips include swimming breaks, freshly cooked lunch, and sailing on less crowded boats to quiet islands. Guests love coming back to us because of the beautiful sunsets, sunrises, and the green pine forests.
+Explore Turkey's natural beauty, rich culture, and ancient cities. Boat trips in Fethiye are getting more popular, especially in the summer. Fethiye is a great spot for boat trips in Turkey. There are many ofptions for boat trips from Fethiye Harbour. You can go on daily boat trips to beautiful islands with a lot of history. Our trips include swimming breaks, freshly cooked lunch, and sailing on less crowded boats to quiet islands. Guests love coming back to us because of the beautiful sunsets, sunrises, and the green pine forests.
 
 ---These are the **spots** we will vist---
 {{< /brick_title >}}

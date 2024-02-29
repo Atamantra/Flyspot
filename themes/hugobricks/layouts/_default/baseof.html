@@ -75,6 +75,13 @@
         <div class="container">
           <div>
             {{ partial "footerlogo.html" . }}
+            <div>
+              <ul class="language-list">
+                  {{ range $.Site.Home.AllTranslations }}
+                  <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+                  {{ end }}
+              </ul>
+      </div>
           </div>
           <div>
             <ul>
@@ -88,10 +95,11 @@
           </div>
         </div>
       </div>
+      
       <div>
         <div class="container">
 		      <div>{{ markdownify (index .Site.Data .Language.Lang).footer.footer_text }}</div>
-		    </div>
+        </div>
   		</div>
 		</footer>
 

@@ -6,5 +6,6 @@ filter_has_numbers: true
 page_size: 3
 preheader: 
   active: true
-  is_light: true
-  text: Open 7/24
+  is_dark: true
+  text: +90 545 224 71 93
+---

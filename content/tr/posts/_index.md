@@ -1,14 +1,14 @@
 ---
 title: Blog
-url: /blog/
+url: /tr/blog/
 ---
 {{< brick_posts >}}
 
 {{< breadcrumbs >}}
 
-# Blog posts
+# Blog Yazıları
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Sizleri bilgilendirecek blog yazılarımızla tatilinize derinlik ve kolaylık katmak için elimizden gelen herşeyi yaptık.
 
 {{< /brick_posts >}}
 {{< brick_cta >}}{{< /brick_cta >}}

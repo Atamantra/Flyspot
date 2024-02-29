@@ -30,14 +30,21 @@ language: "English"
 ---
 ## Family Boat
 {{< brick_small >}}
-![Oludeniz](/uploads/photos/boat.jpg)
+{{< gallery dir="/uploads/Oludeniz/family/" >}}
 {{< /brick_small >}}
 ---
 ## Party Boat
+{{< brick_small >}}
+{{< gallery dir="/uploads/Oludeniz/party/" >}}
 The Party Boat is a 4-tiered, 24-meter-long entertainment and tour vessel, featuring a captivating pirate theme and capable of accommodating up to 120 passengers. Designed in 2022, our boat is now available for your enjoyment. Our experienced captain and crew are committed to delivering high-quality service, ensuring you have a memorable and enjoyable day on board.
+{{< /brick_small >}}
 
 ---
 ## Private Boat
+{{< brick_small >}}
+{{< gallery dir="/uploads/Oludeniz/private/" >}}
+{{< video "/uploads/Oludeniz/private/areyouhappy.mp4" >}}
+{{< /brick_small >}}
 ---
 {{< /tabs >}}
 

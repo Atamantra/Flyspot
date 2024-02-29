@@ -2,15 +2,15 @@
 title: map
 ---
 
-![](/uploads/map2.png)
+![](/uploads/map123.png)
 
-[Google Maps](https://www.google.com/maps)
+[Google Maps](https://maps.app.goo.gl/nedsoQVBUxQnbh638)
 
 ## Contact us
 
-Usecue BV  
-Soetendaal 7  
-1081BL Amsterdam  
-The Netherlands
+Oludeniz, Denizpark Cd.
+Belcekum 2 sit. No:15 
+
+
 
 {{< contactbuttons >}}

@@ -5,35 +5,35 @@ title: Home
 # ‎ 
 # ‎ 
 #### 📍 Fethiye, Muğla 
-# Tandem Paragliding
+# Tandem Paragliding at Turkey
 # ‎ 
 
-#### Feel the thrill as you glide through the air, enjoying incredible views. Upgrade your experience to get cool photos and videos shot by a special 360-degree camera.
+#### Let The Skies Embrace You, And Feel One With Nature Under The Supervision Of Our Excellent Pilots. You Will Feel Free Like A Bird From Our Summit Of 1950 Meters Height at Babadağ. Your Average Time at Midair is 40 Minutes till Landing In Ölüdeniz. Have A Broader Scope. Recommended to High Adrenaline Lovers, Carefull It Can Be Addictive.
 
 
 {{< button "Learn More" "/paragliding/" >}}
 
-![](/uploads/photos/3-min.jpg)
+![paragliding at fethiye](/uploads/photos/3-min.jpg)
 {{< video "/uploads/video/kalkis.webm" >}}
 
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
 
-# Paramotor & Paratrike
+# NGParamotor & Paratrike
 #### 📍 Antalya, Manavgat
 # ‎ 
 #### Paramotoring, also known as powered paragliding, combines the simplicity of paragliding with the added thrill of a motorized engine strapped to your back. 
 
-{{< button "Learn More" "/paragliding/" >}}
+{{< button "Learn More" "/paratrike/" >}}
 
-![](/uploads/photos/ng.png)
+![](/uploads/Paratrike/paratrike.jpeg)
 
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
 
-# Microlight & Gyrocopter
+# Blue SKY Microlight & Gyrocopter
 #### 📍 Dalyan, Iztuzu Beach
 #### Feel the thrill as you glide through the air, enjoying incredible views. Upgrade your experience to get cool photos and videos shot by a special 360-degree camera.
 

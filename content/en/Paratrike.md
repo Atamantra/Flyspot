@@ -1,6 +1,6 @@
 ---
-title: Paragliding
-url: /Paratrike/
+title: PPG & Paratrike
+url: /ngparamotor/
 title: "Paratrike Flight at Antalya, Side"
 meta_title: "Paratrike Flight at Antalya, Side"
 description: "Learn More Details About Paratrike's At Turkey, Konya"
@@ -13,30 +13,27 @@ draft: false
 language: "English"
 ---
 {{< brick_title2 >}}
-
-## Paratrike
-
-#### Experience the thrill of powered flight with our innovative paratrikes! Offering a simple and affordable way to take to the skies, our paratrikes are the choice of adventure enthusiasts and recreational pilots worldwide.
-
-{{< button "Lets Have A Good Time" "/get-started/" >}}
-
-
-![](/uploads/photos/fp-min.jpg)
-
-
+# ‎ 
+# ‎ 
+![ng paramotor & paratrike](/uploads/Paratrike/paratrike.jpeg)
+# ‎ 
+# ‎ 
 {{< /brick_title2 >}}
+
 {{< tabs >}}
-## Photos 
+## NG Paramotor
+---
+## Photos
 {{< brick_title2 >}}
 
 # ‎ 
 # ‎ 
 # ‎ 
-# Get Ready
+# Order
 # ‎ 
 
 
-![Babadağ 1700 meter takeoff area](/uploads/photos/1-min.jpg)
+![paratrike turkey](/uploads/Paratrike/prt.jpeg)
 ## Paragliding Equipment Preparation
 
 {{< /brick_title2 >}}
@@ -44,59 +41,46 @@ language: "English"
 {{< brick_title2 >}}
 
 # ‎ 
-# For An
+# Yours
 # ‎ 
 
-![Babadağ 1700 meter takeoff area](/uploads/photos/2-min.jpg)
+![paratrike turkey](/uploads/Paratrike/prt2.jpeg)
 ## Paragliding Equipment Preparation
 
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
 #
-# Unforgetable
+# Now
 #
-![Babadağ 1700 meter takeoff area](/uploads/photos/4-min.jpg)
+![paratrike turkey](/uploads/Paratrike/prt3.jpeg)
 ## Paragliding First Steps
 
 
-{{< /brick_title2 >}}
-{{< brick_title2 >}}
-
-# ‎ 
-
-# Ride
-#
-#
-![Babadağ 1700 meter takeoff area](/uploads/photos/fp-min.jpg)
-## Paragliding First Steps
 {{< /brick_title2 >}}
 ---
 ## Videos
 {{< brick_title2 >}}
-{{< video "/uploads/video/hava.webm" >}}
+{{< video "/uploads/Paratrike/ngvid.mp4" >}}
 The flight will take around 20-25 minutes, If the weather is good we try our best to fly more than that if the passanger feels relaxed
 {{< /brick_title2 >}}
 
-{{< brick_title2 >}}
-# Acrobatics (optional)
-{{< video "/uploads/video/acro.webm" >}}
-This Manover is called The Helicopter. Dont Panic We Only Do this when the Passangers Feel Relaxed and wish's to do acrobatics.
-{{< /brick_title2 >}}
 ---
-
----
-## 360 Photos
-
+## Education
 {{< brick_title2 >}}
-![360 pictures of tandem paragliding](/uploads/photos/360.webp)
-We Use The Latest Technology Cameras, Currently GoPro Max Is The Best But The Most Vulnerable to Damage and Lens Scratches.
-{{< /brick_title2 >}}
-
+# PPG & Paratrike
+Our Current Education Is Located At Antalya, Manavgat and it will take aprox 1 week to master the begginer course.
+ {{< /brick_title2 >}}
+---
 {{< /tabs >}}
+{{< brick_title2 >}}
+## Ng Paratrike & Paramotoring
+Ng ParaTrike is a flight school from the International Paramotoring and ParaTriking Association and also a well known Paratrike Factory with first class repair systems located at Konya, Turkey. Run by the world’s leading Engineers. The Training System offers the very best training courses and qualifications for Paramotor and ParaTrike pilots, tandem pilots and instructors all around the world. Our aim is to support the growing international Paramotoring and ParaTriking community by giving courses internationally with no language barrier and provide high quality training systems.
+#
 
+{{< button2 "Validation" "/https://appipower.org/school/3025//" >}}
+{{< /brick_title2 >}}
 
----
 {{< brick_team >}}
 
 

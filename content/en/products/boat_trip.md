@@ -1,9 +1,10 @@
 ---
 title: Flying tandem
 image: "/uploads/Paragliding/1.jpg"
+url: /sd
 images:
 - image:
-variant_type: duration
+variant_type: 
 variants:
 - name: half an hour
   price: 35

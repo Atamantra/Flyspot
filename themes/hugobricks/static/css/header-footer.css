@@ -26,7 +26,6 @@
 /*------------------------*/
 /* header
 /*------------------------*/
-
 header {position: absolute; background: white; z-index: 9; width: 100%;}
 header > .container {padding-top: 1.5rem; padding-bottom: 1.5rem; position: relative;}
 header.sticky {box-shadow: 0 0 0.5rem rgba(0,0,0,0.1); background: white; position: fixed; top: 0;}

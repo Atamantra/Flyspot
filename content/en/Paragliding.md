@@ -1,21 +1,7 @@
 ---
 title: "Paragliding At Fethiye, Babadag"
 url: /paragliding/
-image: "/uploads/photos/book.JPG"
-images:
- - image: "/uploads/photos/1-min.jpg"
-variant_type: curency
-variants: 
-- name: euro
-  price: 10
-  sku: halfanhourparagliding
-- name: one hour
-  price: 70
-  sku: onehourparagliding
-title: "Tandem Paragliding At Fethiye, Oludeniz"
-meta_title: "Paragliding at fethiye, oludeniz"
 description: "Learn More Details About Paragliding At Turkey, Fethiye, Oludeniz"
-date: 2024-01-20T05:00:00Z
 categories: ["Tours", "Fethiye"]
 author: "Atamantra"
 tags: ["Paragliding", "Fethiye"]
@@ -29,7 +15,7 @@ language: "English"
 
 
 ![](/uploads/Paragliding/pg360.jpg)
-
+{{< button "Book Now" "/paraglidingbooking/" >}}
 {{< /brick_title2 >}}
 {{< tabs >}}
 
@@ -83,17 +69,19 @@ An additional fee will be charged for photo and video shooting (35$).
 Don't forget to bring **sunglasses, sports shoes, and a suitable device (mobile phone, USB, etc.) for storage.**
 You must arrive at the flight location **30 minutes** before the scheduled time.
 
-{{< brick_title2 >}}
 {{< faq 1 >}}
-{{< /brick_title2 >}}
 
-![Click For Our Office Location](/uploads/map123.png)
+
+{{< map "/uploads/map123.png" "https://maps.app.goo.gl/toyVpzBCWoiJUDiE9" >}}
+
 {{< /brick_wide >}}
+{{< brick_cta >}}{{< /brick_cta >}}
+---
+## Our team
 
 {{< brick_team >}}
 
-# Our team
-
+# Extreme Sports Masters
 Presenting our team of highly skilled pilots, renowned for their intellectual acumen and commitment to training aspiring aviators year-round. Within our ranks are experts who have mastered a range of disciplines, including Paramotoring, Speed Flying, Acro, XC, Hike & Fly, Base Jumping, and Skydiving.
 
 United by a shared passion for aviation, our team has come together with a clear purpose: to embody the joy of flight and inspire others with our enthusiasm for the skies.
@@ -163,20 +151,4 @@ This Manover is called The Helicopter. Dont Panic We Only Do this when the Passa
 {{< /brick_title2 >}}
 
 ---
-## Price
-
-{{< brick_product >}}
-
-# Flying Tandem
-Tandem Paragliding At Fethiye, Ölüdeniz.
-
-### 100$ Flight
-### 35$ Pictures and Videos
-
-Pay 10 pounds and pay the rest later when you arrive. Please fill up this form after you have created the payment [Fill Me](/get-started)
-
-{{< button "Pay 10GBP" "https://wise.com/pay/r/tzICApBIpjAHNB0" >}}
-
- 
-{{< /brick_product >}}
 {{< /tabs >}}

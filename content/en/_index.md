@@ -15,7 +15,6 @@ title: Home
 
 ![paragliding at fethiye](/uploads/photos/3-min.jpg)
 {{< video "/uploads/video/kalkis.webm" >}}
-
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}

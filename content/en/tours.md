@@ -13,7 +13,6 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 ![](/uploads/photos/lagoon.jpg)
 
 {{< /brick_title2 >}}
-
 {{< brick_title2 >}}
 
 # Oludeniz Boat Trip

@@ -1,0 +1,76 @@
+<div id="checkout">
+    <div style="margin-top: 120px; position: boxed; top: 30px;"></div>
+    <form action="/donate/paylink/" method="post" onchange="setAddons(this)">
+        <input name="_gotcha" style="display:none" type="text">
+        <input name="_to" type="hidden" value="joost@vdschee.nl">
+        <input name="_subject" value="New order!" type="hidden">
+        <input name="ordernumber" value="" type="hidden">
+
+        <div class="half">
+            <h3>first name</h3>
+            <label for="firstname">{{ i18n "First name" }}</label>
+            <input type="text" name="firstname" required />
+        </div>
+        <h3>last name</h3>
+        <div class="half">
+            <label for="lastname">{{ i18n "Last name" }}</label>
+            <input type="text" name="lastname" required />
+        </div>
+
+        <div>
+            <h3>E-mail</h3>
+            <label for="email">{{ i18n "Email address" }}</label>
+            <input type="email" name="email" required />
+        </div>
+
+        <div>
+            <h3>Date Of Travel</h3>
+            <label for="date">{{ i18n "date" }}</label>
+            <input type="date" name="date" required />
+        </div>
+
+        <div>
+            <h3>Tour</h3>
+            <label for="tour">{{ i18n "Shipping" }}</label>
+            <select name="Tour" required onchange="if(this.value == 'PG') document.querySelector('input[name=\'Tour\']').value = 'Paragliding'; else document.querySelector('input[name=\'tour\']').value = ''">
+                <option value="1"></option>
+                <option value="PG" data-title="Paragliding">Paragliding (+ &dollar; 100.00)</option>
+                <option value="BTO" data-title="Ölüdeniz Boat Trip" data-price="7.5">Ölüdeniz Boat Trip (+ &euro; 7.50)</option>
+                <option value="BT12" data-title="12 Island Boat Trip" data-price="15">12 Island Boat Trip (+ &euro; 15.00)</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="country">{{ i18n "Country" }}</label>
+            <input type="text" name="country" required />
+        </div>
+
+        <div>
+            <label>{{ i18n "Gift wrapping" }}</label>
+            <label><input type="radio" name="wrapped" value="no" required> {{ i18n "Not gift wrapped" }}</label>
+            <label><input type="radio" name="wrapped" data-title="Gift wrapped" value="yes" data-price="2" required> {{ i18n "Gift wrapped" }} (+ &euro; 2.00)</label>
+        </div>
+
+        <div>
+            <label for="message">{{ i18n "Message" }}</label>
+            <textarea name="message"></textarea>
+        </div>
+
+        <div class="submitbutton"><a href="{{ with .Site.GetPage `cart.md` }}{{ .RelPermalink }}{{ end }}" class="gray">{{ i18n "back to cart" }}</a><input type="submit" value="{{ i18n `Proceed to payment` }}" onclick="setOrderNumber(this.parentNode.parentNode);" /></div>
+
+    </form>
+    <div>
+        <label style="padding-top: 0.8rem;">{{ i18n "Payment total" }}</label>
+        <div id="checkoutcalculation">
+            <span>{{ i18n "Shopping cart"}}: </span>€ 0.00
+        </div>
+        <p><em>{{ .Get 0 }}</em></p>
+    </div>
+</div>
+
+
+<div style="margin-top: 50px; position: relative; top: 30px;">
+        <ul id="checkout_progress">
+            <li class="past"><span><a href="{{ with .Site.GetPage `cart.md` }}{{ .RelPermalink }}{{ end }}">{{ i18n "Shopping cart"}}</a></span></li><li class="current"><span><a href="#">Checkout</a></span></li><li><span><span>Payment</span></span></li>
+        </ul>
+</div>

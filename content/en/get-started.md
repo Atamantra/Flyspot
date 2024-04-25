@@ -1,17 +1,20 @@
 ---
-title: Get started
+title: Booking Form
 ---
+‎ 
+
 {{< brick_small >}}
 
-{{< breadcrumbs >}}
 
-# Get started
+# Booking Form
 
-You can mention your specific need to us and we will contact you shortly
+Please Mention What Would You like To Do. You will then recieve a deposite payment link. Thank you! 
 
----
 
-{{< contactform >}}
+{{< checkoutform >}}
+
+![General Data Protection Regulation Approved Form From Formspree](/uploads/secure/gdpr.svg)
+![California Consumer Privacy Act Approved Form From Formspree](/uploads/secure/ccpa.svg)
 
 {{< /brick_small >}}
 {{< brick_map >}}{{< /brick_map >}}

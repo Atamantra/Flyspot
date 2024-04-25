@@ -1,49 +1,52 @@
 logo_image:
-logo_subtitle: Yamaç Paraşütü & Seyahat
-mobile_view_width: 1000
+logo_subtitle: Hava Sporları ve Seyahat Acentası
+mobile_view_width: 1100
 menuitems:
-  - title: Hakkımızda
-    link: /Hakkımızda/
+  - title: Dil
     items: 
-      - title:
-        link:
-  - title: Turlar
-    link: /turlar/
-    items: 
-      - title: Elements
-        link: /elements/
-      - title: Header image 1
-        link: /bgimage3/
-      - title: Header image 2
-        link: /bgimage2/
-      - title: Header image 3
-        link: /bgimage/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /tr/iletisim/
-      - title: F.A.Q.
-        link: /tr/faq/
-      - title: 404 Page
-        link: /404.html
-  - title: Docs
-    link: /docs/
-  - title: Blog
-    link: /tr/blog/
-  - title: Language ॐ
-    link: 
-    items: 
-      - title: English
-        link: /en/
       - title: Türkçe
         link: /tr/
-        
+      - title: İngilizce
+        link: /en/
+  - title: Blog
+    link: /tr/blog/
+  - title: Hakkımızda
+    link: /hakkimizda/
+  - title: İletişim
+    link: /tr/bize-ulasin/
+  - title: Turlar
+    link: /Tours/
+    items: 
+      - title: Yamaç Paraşütü
+        link: /paragliding/
+      - title: At Binme
+        link: /horseriding/
+      - title: Dalış
+        link: /scubadiving/cs
+      - title: Dalyan Turu
+        link: /dalyan/
+      - title: 12 Adalar Tekne Turu
+        link: /12Island/
+      - title: Ölüdeniz Tekne Turu
+        link: /oludenizboat/
+      - title: Jeep Safari
+        link: /jeepsafari/
+      - title: Rafting
+        link: /rafting/
+      - title: ATV Safari
+        link: /atv/
+      - title: Dalyan Microlight
+        link: /microlight/
+  - title: Eğitimler
+    link: /edu/
+    items:
+      - title: Yamaç Paraşütü
+        link: /edu/paragliding
+      - title: Serbest Düşüş
+        link: /edu/skydiving
+      - title: Paraşüt & Paramotor
+        link: /ngparamotor/
 cta:
   active: true
-  title: Bize Ulaşın
+  title: Başlayın
   link: /tr/get-started/
-  

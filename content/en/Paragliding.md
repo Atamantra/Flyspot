@@ -22,7 +22,7 @@ language: "English"
 ## About
 {{< brick_title >}}
 
-**Fethiye**, located on the southern coast of Turkey, stands as a magnificent holiday destination. If you're looking to turn your vacation into an unforgettable experience, consider paragliding in Fethiye. Here, we offer you glimpses of the moments you'll encounter and some essential tips for this unique experience.
+**Fethiye**, located on the southern coast of Turkey, stands as a magnificent holiday destination. If you're looking to turn your vacation into an unforgettable experience, consider paragliding in Fethiye, Ölüdeniz. Here, we offer you glimpses of the moments you'll encounter and some essential tips for this unique experience.
 
 {{< /brick_title >}}
 
@@ -32,12 +32,11 @@ language: "English"
 Upon arriving at the takeoff point, you'll have time to relax, attend to your needs, or capture the breathtaking scenery. When you meet your pilot for takeoff, they will provide you with a brief overview and prepare you for the flight.
 
 ### Takeoff
-
-After takeoff, guided by your pilot, you'll begin to rise from the ground with a few steps. You'll open your arms to take in the mesmerizing view of Ölüdeniz and the fresh air. It's a moment where you'll feel truly free like a bird. Your pilot will immortalize these special moments with photographs and videos. You can watch or purchase them after landing.
+After takeoff, guided by your pilot, you'll begin to rise from the ground with a few steps. You'll open your arms to take in the mesmerizing view of Ölüdeniz and the fresh air. It's a moment where you'll feel truly free like a bird.
 
 ### Flight and Aerobatics
 
-Based on your preference, your pilot will perform various aerobatic maneuvers, allowing you to experience sensations you've never felt before. These maneuvers are performed by experts and are safe, without any risk. After approximately 30 minutes of flight, you'll land on the Ölüdeniz beach.
+Based on your preference, your pilot will perform various aerobatic maneuvers, allowing you to experience sensations you've never felt before. These maneuvers are performed by experts and are safe, <u>without any risk.</u> After approximately 30 minutes of flight, you'll feel like butter melting on top of hot pancakes at the Ölüdeniz beach.
 
 ### Who Can't Participate?
 
@@ -69,26 +68,24 @@ An additional fee will be charged for photo and video shooting (35$).
 Don't forget to bring **sunglasses, sports shoes, and a suitable device (mobile phone, USB, etc.) for storage.**
 You must arrive at the flight location **30 minutes** before the scheduled time.
 
+### FAQ'S
+
 {{< faq 1 >}}
 
 
 {{< map "/uploads/map123.png" "https://maps.app.goo.gl/toyVpzBCWoiJUDiE9" >}}
-
 {{< /brick_wide >}}
-{{< brick_cta >}}{{< /brick_cta >}}
 ---
 ## Our team
 
 {{< brick_team >}}
 
 # Extreme Sports Masters
-Presenting our team of highly skilled pilots, renowned for their intellectual acumen and commitment to training aspiring aviators year-round. Within our ranks are experts who have mastered a range of disciplines, including Paramotoring, Speed Flying, Acro, XC, Hike & Fly, Base Jumping, and Skydiving.
+Presenting our team of highly skilled pilots, renowned for their intellectual acumen and commitment to docs aspiring aviators year-round. Within our ranks are experts who have mastered a range of disciplines, including Paramotoring, Speed Flying, Acro, XC, Hike & Fly, Base Jumping, and Skydiving.
 
 United by a shared passion for aviation, our team has come together with a clear purpose: to embody the joy of flight and inspire others with our enthusiasm for the skies.
 
 {{< /brick_team >}}
-
-{{< brick_cta >}}{{< /brick_cta >}}
 ---
 ## Photos 
 {{< brick_title2 >}}
@@ -149,6 +146,38 @@ The flight will take around 20-25 minutes, If the weather is good we try our bes
 {{< video "/uploads/video/acro.webm" >}}
 This Manover is called The Helicopter. Dont Panic We Only Do this when the Passangers Feel Relaxed and wish's to do acrobatics.
 {{< /brick_title2 >}}
-
 ---
 {{< /tabs >}}
+{{< brick_prices >}}
+---
+**Extreme**
+### Tandem Paragliding
+
+![Ölüdeniz pirate boat](/uploads/paragliding/5.jpg)
+
+Everyone Can Do This Activity!
+### _$_**100**/Per Person
+#
+### What Is Included?
+- Insurance
+- 7/24 Customer Service
+- Babadag Entry Fee
+- Transfer
+- Snacks
+- Acrobatics (optional)
+#
+### What To Bring?
+- 🧴 **Sunscreen**
+- 🥾 **Shoes**
+- 🕶️ **Sunglasses**
+- 🧥 Jacket (Optional)
+- 💵 **Cash**
+#
+### What's Not Included?
+GoPro Footage + 35 USD 
+
+[Book Now](/paraglidingbooking/)
+
+{{< /brick_prices >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}

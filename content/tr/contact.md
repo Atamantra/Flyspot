@@ -1,6 +1,6 @@
 ---
 title: Bize Ulaşın
-url: /tr/bize-ulasin
+url: /tr/bize-ulasin/
 ---
 {{< brick_title >}}
 

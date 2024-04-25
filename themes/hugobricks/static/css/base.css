@@ -61,13 +61,13 @@ h1, h2, a.logo {font-family: var(--fontTitles);}
 /* logo
 /*------------------------*/
 
-a.logo {font-size: 1.8rem; font-weight: bold; text-decoration: none; color: var(--textDark);}
-a.logo img.inline {height: 2rem;}
-a.logo > div {display: flex; gap: 0.8rem; align-items: center;}
+a.logo {font-size: 1.6rem; font-weight: bold; text-decoration: none; color: var(--textDark);}
+a.logo img.inline {height: 2.6rem;}
+a.logo > div {display: flex; gap: 0.1rem; align-items: center;}
 a.logo > div > div span {display: block;}
-a.logo > div.has_subtitle {gap: 1rem;}
-a.logo > div.has_subtitle > div span:nth-child(1) {line-height: 1.2;}
-a.logo > div.has_subtitle > div span:nth-child(2) {font-size: 0.75rem; font-weight: normal;}
+a.logo > div.has_subtitle {gap: 0.7rem;}
+a.logo > div.has_subtitle > div span:nth-child(1) {line-height: 1;}
+a.logo > div.has_subtitle > div span:nth-child(2) {font-size: 0.55rem; font-weight: bold;}
 
 /*------------------------*/
 /* sections general
@@ -241,7 +241,7 @@ ul.grid li {list-style: none; position: relative;}
 /* avatar
 /*------------------------*/
 
-.avatar {border-radius: 100%; object-fit: cover; filter: grayscale(100%);}
+.avatar {border-radius: 100%; object-fit: cover;}
 
 /*------------------------*/
 /* people
@@ -249,7 +249,7 @@ ul.grid li {list-style: none; position: relative;}
 
 ul.people li {text-align: center;}
 ul.people li .box {height: 100%; padding: 2.25rem clamp(2rem, 4vw, 3.5rem);}
-ul.people li .avatar {height: 8rem; width: 8rem; margin: 0.5rem auto 0.15rem;}
+ul.people li .avatar {height: 12rem; width: 12rem; margin: 0.2rem auto 0.15rem;}
 ul.people li .function {color: var(--textDark); margin: -0.25rem 0 1.5rem;}
 ul.people ul.buttons {justify-content: center;}
 

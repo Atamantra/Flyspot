@@ -14,9 +14,12 @@ language: "English"
 ---
 
 {{< brick_title2 >}}
-#
 
+## Oludeniz Boat Tours
+#### 📍 Oludeniz, Fethiye, Muğla 
 ![Oludeniz](/uploads/photos/boat.jpg)
+
+{{< button "Book Now" "/oludenizboat/booking/" >}}
 
 
 # ‎ 
@@ -26,25 +29,7 @@ language: "English"
 ---
 ## Videos
 {{< video "/uploads/video/oludeniz.mp4" >}}
-
----
-## Family Boat
-{{< brick_small >}}
-{{< gallery dir="/uploads/Oludeniz/family/" >}}
-{{< /brick_small >}}
----
-## Party Boat
-{{< brick_small >}}
-{{< gallery dir="/uploads/Oludeniz/party/" >}}
-The Party Boat is a 4-tiered, 24-meter-long entertainment and tour vessel, featuring a captivating pirate theme and capable of accommodating up to 120 passengers. Designed in 2022, our boat is now available for your enjoyment. Our experienced captain and crew are committed to delivering high-quality service, ensuring you have a memorable and enjoyable day on board.
-{{< /brick_small >}}
-
----
-## Private Boat
-{{< brick_small >}}
-{{< gallery dir="/uploads/Oludeniz/private/" >}}
-{{< video "/uploads/Oludeniz/private/areyouhappy.mp4" >}}
-{{< /brick_small >}}
+{{< video "/uploads/Oludeniz/party/partyboat.mp4" >}}
 ---
 {{< /tabs >}}
 
@@ -94,12 +79,67 @@ The best way to spend your holiday is to embark on a boat trip with us and explo
 ![Camel Beach, Fethiye](/uploads/Oludeniz/Deve.webp)
 {{< /brick_title2 >}}
 
-{{< brick_prices >}}
+{{< tabs >}}
+## Family Boat
+{{< brick_small >}}
+# Ölüdeniz Family Boat
+Our top priority is the happiness of our guests. We ensure your safe voyage. Complying with all regulations for a comfortable and healthy boat journey. We play the latest chill-out and soothing music to enhance your experience without ruining your day. We pride ourselves on being the most relaxing boat for you, your family, and friends. We stick to a strict schedule to ensure frequent visits to the least crowded coves. More enjoyment, fewer boats! We offer you the finest beverages from renowned brands.
+{{< gallery dir="/uploads/Oludeniz/family/" >}}
+{{< /brick_small >}}
+---
+## Party Boat
+{{< brick_wide >}}
+# Ölüdeniz Party Boat
+The Ölüdeniz Party Boat features a captivating pirate theme with a fun foam party with well desgined high quality music system, capable of accommodating up to 120 passengers. Re-designed in 2024, our boat is now available for your enjoyment. Our experienced captain and crew are committed to delivering high-quality service, ensuring you have a memorable and enjoyable day on board.
+{{< gallery dir="/uploads/Oludeniz/party/" >}}
+{{< video "/uploads/Oludeniz/party/partyboat.mp4" >}}
+{{< /brick_wide >}}
+
+---
+## Private Boat
+
+{{< brick_wide >}}
+# Ölüdeniz Private Boat Tour
+ If you wish to rent a boat for your family our boats can carry out about **18 people**. We Will stop at the same routs as the classical boat tour but this can be a very special trip for your family. **the tour starts at 11 and ends at 4** and lunch is included
+#
+{{< gallery dir="/uploads/Oludeniz/private/" >}}
+
+# Video
+
+{{< video "/uploads/Oludeniz/private/areyouhappy.mp4" >}}
+{{< /brick_wide >}}
+
+---
+## Speed Boat
+
+{{< brick_title2 >}}
+# Speed Boat
+#
+![Camel Beach, Fethiye](/uploads/Oludeniz/speed/speed.jpg)
+#
+{{< /brick_title2 >}}
+
+{{< brick_wide >}}
+# Oludeniz Speed Boat Tour
+
+
+You can rent a speed boat to do a custom tour. The places you can visit are the same as the usual boat trip but you can also customize it with your favorite drinks and have a private privilege. At Ölüdeniz Speed boat tour you can come up to 6 people
+
+Ölüdeniz speed boat is priced with hourly usage and generally full during the season. Speed boat prices can change so we would recomend you to text us for the lates pricing.
+{{< gallery dir="/uploads/Oludeniz/speed/" >}}
+
+# Video
+{{< video "/uploads/Oludeniz/speed/speed.mp4" >}}
+{{< /brick_wide >}}
+{{< /tabs >}}
 
 ---
 
-**Pirate Boat**
-### Best For Everyone!
+{{< brick_prices >}}
+# Our Friendly Pricing
+---
+**Oludeniz Party Boat**
+### Anyone Can Join!
 
 ![Ölüdeniz pirate boat](/uploads/Oludeniz/kopuk.webp)
 
@@ -127,11 +167,13 @@ Come aboard our exciting day trip, suitable for all ages! **We set sail at 10:30
 1. Other Food and Snack Alternatives
 
 [Book Now](/get-started/)
+
 ---
+
 **Family Boat**
 ### Best For Groups And Families
-![Ölüdeniz Boat Trip](/uploads/12Island/boat/boat2.jpg)
-###  - Families & Couples Only -
+![Ölüdeniz Boat Trip](/uploads/Oludeniz/family/fam4.JPG)
+
 Welcome aboaard on our Family boat. **We set sail at 10:30 am at Ölüdeniz Beach and return by 5:30 pm**. Our boat can hold up to **80 people**, making it a good choice for the Oludeniz boat trip. Our boat can fill up fast, we recommend booking at least two days ahead of time. You can also call us before booking to make sure there's space available.
 
 ### _$_**40**/Per Person
@@ -160,14 +202,14 @@ Welcome aboaard on our Family boat. **We set sail at 10:30 am at Ölüdeniz Beac
 
 ---
 
-**Sunset Boat**
+**Ölüdeniz Sunset Boat Tour**
 ### Let Hearts Be Filled With Joy
 
 ![Ölüdeniz Sunset Boat Trip](/uploads/Oludeniz/sunset.webp)
 
 Join our Sunset Tour **departing at 6:00 PM, returning at 10:30 PM.** Enjoy swimming, sunset views, a delicious dinner, and a lively foam party with DJ tunes on our Party Boat. Don't forget your towel for swimming and foam fun. Experience the sunset from upper decks, dance on the middle deck, and dine below. Unforgettable evening guaranteed!
 
-### _$_**35**/Per Person
+### _$_**55**/Per Person
 #
 ### What Is Included?
 - Insurance
@@ -186,6 +228,7 @@ Join our Sunset Tour **departing at 6:00 PM, returning at 10:30 PM.** Enjoy swim
 1. Entry Fee's
 1. Ringo, Banana And Other Water Sports.
 1. Other Food and Snack Alternatives
+#
 [Book Now](/get-started/)
 {{< /brick_prices >}}
 {{< brick_cta >}}{{< /brick_cta >}}

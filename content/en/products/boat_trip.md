@@ -1,25 +1,32 @@
 ---
-title: Flying tandem
-image: "/uploads/Paragliding/1.jpg"
-url: /sd
+title: 12 Island
+image: "/uploads/12Island/12islandmap.png"
+url: /12island/booking
 images:
 - image:
 variant_type: 
 variants:
-- name: half an hour
+- name: Adult = ($45)
   price: 35
-  sku: halfanhourparagliding
-- name: one hour
-  price: 70
-  sku: onehourparagliding
+  sku: adult
+- name: Sunset Tour Adult's Only = ($50)
+  price: 35
+  sku: Sunset
+- name: Children Lower Than 10 Y.O. = ($25)
+  price: 20
+  sku: children
 weight: 1
 ---
 
 {{< brick_product >}}
 
-# Flying tandem
-lalala
+## Welcome to the 12 Island Booking Page
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. 
+##### Here You can pay a small deposite to book your place and secure your booking
+
+### Pay 10 GBP and send a mail to recieve an e-ticket.
+Learn more about bookings [In This Page](/howtobook/)
+
+You can send a deposite using this link bellow
 
 {{< /brick_product >}}

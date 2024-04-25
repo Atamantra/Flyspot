@@ -40,7 +40,7 @@ language: "English"
 {{< brick_title2 >}}
 
 # Fight With The Mad Torrent 
-#### The place where you do Fethiye rafting is the Dalaman river. After a short training given by instructor, you feel yourself ready for the Fethiye rafting. During the joyful activity starting after the training, you enjoy the feeling of the cold water splashed onto your face, constantly and totally controlled by the experienced instructor. The water of the Fethiye Rafting field is quite clean, and amateur rafting fans can enjoy rafting there all year around.
+#### The place where you do Fethiye rafting is the Dalaman river. After a short docs given by instructor, you feel yourself ready for the Fethiye rafting. During the joyful activity starting after the docs, you enjoy the feeling of the cold water splashed onto your face, constantly and totally controlled by the experienced instructor. The water of the Fethiye Rafting field is quite clean, and amateur rafting fans can enjoy rafting there all year around.
 ![dalaman rafting ](/uploads/Rafting/rafraf.jpeg)
 {{< /brick_title2 >}}
 

@@ -68,7 +68,7 @@
         {{ end }}
         <button id="togglemenu" onclick="document.body.classList.toggle('menushown');">Toggle menu</button>
     </header>
-
+    </div>
     {{- block "content" . -}}{{- end -}}
 
     <footer class="{{ if (index .Site.Data .Language.Lang).footer.dark_footer }}dark{{ end }}">
@@ -96,7 +96,6 @@
           </div>
         </div>
       </div>
-      
       <div>
         <div class="container">
 		      <div>{{ markdownify (index .Site.Data .Language.Lang).footer.footer_text }}</div>
@@ -121,5 +120,3 @@
       </div>
   </body>
 </html>
-
-

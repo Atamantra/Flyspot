@@ -10,7 +10,7 @@
             <div class="radio">
                 <label><input type="radio" name="{{ .name }}" value="{{ .placeholder }}" required>{{ .placeholder }}</label>
             </div>
-        {{- else if eq .input_type `checkbox` -}}
+            {{- else if eq .input_type `checkbox` -}}
             <div class="checkbox">
                 <label><input type="checkbox" name="{{ .name }}" value="{{ .placeholder }}" required>{{ .placeholder | safeHTML }}</label>
             </div>

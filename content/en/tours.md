@@ -2,20 +2,29 @@
 title: tours
 url: /Tours/
 ---
+
 {{< brick_title2 >}}
-# Find Freedom and Lose Yourself In The Blue.
+#### 📍 Turkey, Mugla, Fethiye, Ölüdeniz
+# Check Our Tours
 
-At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price's
+![ People Swiming at Blue Lagoon Ölüdeniz](/uploads/Oludeniz/bluelagoonoludeniz.jpg)
+{{< button "Plan Now" "/get-started/" >}}
 
 
-{{< button "Contact Now" "/get-started/" >}}
-
-![](/uploads/photos/lagoon.jpg)
 
 {{< /brick_title2 >}}
+
+{{< brick_image >}}
+# <u>Book Now Pay Later</u>
+### We Handpicked The Best Operators To Provide The Best Experience With The Most Most Competitive Prices On The Market.
+![svg](/uploads/illustrations/cuate/dalis2.svg)
+{{< /brick_image >}}
+
 {{< brick_title2 >}}
 
+#### 📍 Butterfly Valley, Nicholas Island, Camel Beach... 
 # Oludeniz Boat Trip
+## <u> 1600 TL</u>
 ![Oludeniz](/uploads/photos/boat.jpg)
 
 #### With carefully planned 30 to 60-minute breaks at each stop, you can comfortably travel and explore every remarkable spot. Join us for an Ölüdeniz boat tour adventure filled with unforgettable moments!
@@ -24,8 +33,9 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
-
+#### 📍 Sailing to Red Island, Gocek Island, Yassica Island...
 # 12 Island Boat Trip
+## <u> 1750 TL</u>
 ![12 Island Boat Trip](/uploads/photos/12Island.jpg)
 
 #### This tour is most loved and popular among various Fethiye boat cruises. During the tour, you can spend a great day with your family, friends and loved ones. Take a closer look on the points we visit during the tour
@@ -36,8 +46,9 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 
 
 {{< brick_title2 >}}
-
+#### 📍 Hisaronu, Ovacik, Kayakoy, or Çalış Beach
 # Horse Riding
+## <u> 1500 TL</u>
 ![Fethiye Horse Riding](/uploads/Background/horseriding.webp)
 
 #### Humans have been together with horses and adored them since we came into the world. Horses are already our irreplaceable, reliable friends. Horse riding is one of the best activities you can try while staying in Fethiye. 
@@ -47,7 +58,9 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
+#### 📍 Fethiye, Ölüdeniz or Butterfly Valley
 # Diving
+## <u> 1900 TL</u>
 ![Fethiye Diving Center](/uploads/Diving/scuba.jpg)
 
 
@@ -58,7 +71,9 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
+#### 📍 Dalyan, Muğla
 # Dalyan Tour
+## <u> 1600 TL</u>
 ![Dalyan Tour](/uploads/dalyan/tomb-min.jpg)
 
 #### Discover the ancient Royal Tombs of Kaunos. Enjoy a peaceful boat ride down the river with stunning views. Afterwards, head to İztuzu Beach. Relax on the sandy beach and swim in the clear water. Keep an eye out for the special sea turtles living there. Join us for an amazing adventure!
@@ -68,7 +83,9 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
+#### 📍 Tlos, Waterfalls, Saklikent, Yakapark, Mudbaths
 # Jeep Safari
+## <u> 1400 TL</u>
 ![Fethiye Jeep Safari Tour](/uploads/Background/bgjeep.jpeg)
 
 #### For the Fethiye Jeep Safari, We offer our precious customer various services at very reasonable cost. We visit 4 wonderful spots for the Fethiye Jeep Safari. Since you sometimes come into contact with water we including the mad bath during the tour. 
@@ -78,15 +95,19 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
+#### 2-3 Hours --- 26 KM --- Level 3-4, 
 # White Water Rafting
+## <u> 3000 TL</u>
 ![White Water Rafting Dalaman](/uploads/Background/rafting.jpeg)
 
-#### The place where you do Fethiye rafting is the Dalaman river. After a short training given by instructor, you feel yourself ready for the Fethiye rafting. During the joyful activity starting after the training, you enjoy the feeling of the cold water splashed onto your face, constantly and totally controlled by the experienced instructor.
+#### The place where you do Fethiye rafting is the Dalaman river. After a short docs given by instructor, you feel yourself ready for the Fethiye rafting. During the joyful activity starting after the docs, you enjoy the feeling of the cold water splashed onto your face, constantly and totally controlled by the experienced instructor.
 
 {{< button "Read More" "/rafting/" >}}
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
+#### 📍 Kayaköy, Muğla
 # ATV Safari 
+## <u> 1450 TL</u>
 ![Quadbike Tour At Fethiye](/uploads/atv/8.jpeg)
 #### You start the tour with our professional guide from the Kaya village to Gemiler bay following forest paths. Feeling the wind all over your body going through the forest on Quad Bike and swimming in the crystal water of the beautiful bay. Don’t procrastinate, hit the gas!
 
@@ -94,8 +115,22 @@ At Flyspot We Have All The Tours You Can Amagine With The Most Reasonable Price'
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
+#### 📍 Fethiye, Ölüdeniz, Babadağ
 # Paragliding At Fethiye
-![Paragliding At Turkey](/uploads/Paragliding/4.jpg)
+## <u> 4850 TL </u>
+![Paragliding At Turkey](/uploads/Paragliding/pg360.jpg)
 #### You start the tour with our professional guide from the Kaya village to Gemiler bay following forest paths. Feeling the wind all over your body going through the forest on Quad Bike and swimming in the crystal water of the beautiful bay. Don’t procrastinate, hit the gas!
 {{< button "Read More" "/paragliding/" >}}
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+#### 📍 Dalyan, Iztuzu Beach
+# Microlight
+## <u> 4500 TL </u>
+#### Imagine one of the most amazing experiences ever: flying over ancient tombs in Kaunos, spotting turtles at Iztuzu Beach, and seeing Dalyan from high above. Don't miss out on this incredible adventure!
+{{< button "Learn More" "/microlight/" >}}
+
+![](/uploads/photos/pic.webp)
+
+
+
 {{< /brick_title2 >}}

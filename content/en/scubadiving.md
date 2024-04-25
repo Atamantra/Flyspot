@@ -21,17 +21,15 @@ language: "English"
 # ‎
 {{< /brick_title2 >}}
 {{< tabs >}}
-
----
 ## Fethiye Diving Center
 
-{{< brick_title >}}
+{{< brick_wide >}}
 ### About Fethiye Diving
 If you are looking for a wholde day trip discovering the underwater world. Fethiye Scuba Diving is for you! This trip offers you 2 diving at different spots for 30 minute each. after the first dive we offer a lunch and at the end of the day you will watch your pictures and videos that are avaliabel for purchase. The Scuba Diving Experience is like a boat trip with more fun! 
 
 
 
-{{< faq 3 >}}
+{{< faq 2 >}}
 
 ### SCHEDULE
 No matter where you are living in the neighboring area of Fethiye, and no matter which hotel you are staying at, our service car will pick you up on time to the diving spot. After arriving at our boat, you are introduced to our scuba diving instructor, and then our boat will move to the **diving spot**. The starting time is between 08:00-09:30, and the time may change according to where you stay. In that case, we will contact you. After the end of the tour, again our transfer service brings you back to your hotel or house.
@@ -43,33 +41,19 @@ No matter where you are living in the neighboring area of Fethiye, and no matter
 - Are physically handicapped.
 
 ### PICK-UP TIME
+- Liberty Hotel Likya - 07:50, 
+- Ölüdeniz - 08:00,
+- Hisarönü - 08:20, 
+- Ovacık - 08:30, 
+- Majesty Tuana Club Hotel - 08:30, 
+- Fethiye - 09:00, 
+- Karagözler - 09:00
+---
+### Departure from Harbour 09:30
+### Arrival at Harbour 17:30
+---
+{{< /brick_wide >}}
 
-Ölüdeniz-08:00, Hisarönü-08:20, Ovacık-08:30, Fethiye-09:00, Liberty Hotel Likya-07:50, Majesty Tuana Club Hotel-08:30, Karagözler-09:00
-
-Departure from Harbour-09:30
-Arrival at Harbour-17:30
-{{< /brick_title >}}
-
-{{< brick_title2 >}}
-
-# 
-## How To Set Up And Use Diving Equipment Underwater.
- #### Learn How To Use A **Mask** when its filled up with water.We Will Also Teach How **Scuba Requlator** and **tank** works and also learn how to swim like a fish with **fins.**
-
-![Scuba Diving Fethiye](/uploads/Diving/eqipman2.jpeg)
-{{< /brick_title2 >}}
-
-
-{{< brick_title2 >}}
-##  What it feels like to breathe underwater
-#### - Breathe deep into the abdomen –'belly breathing'
-#### - Breaths should be relaxed, gentle and slow.
-#### - Be calm, controlled and conscious of your breathing.
-#### - Use a passive inhalation and passive exhalation.
-#### - Pause slightly at the end of the exhalation.
-#
-![Aquarium Bay, Fethiye](/uploads/Diving/breath.jpeg)
-{{< /brick_title2 >}}
 
 ---
 ## Ölüdeniz Diving Center
@@ -151,26 +135,52 @@ The Party Boat is a 4-tiered, 24-meter-long entertainment and tour vessel, featu
 {{< /brick_title >}}
 
 {{< /tabs >}}
+
 {{< brick_title >}}
+# Diving At Fethiye, Ölüdeniz
 Have you ever wondered what it's like to breathe underwater? If you're curious about scuba diving but not ready for a full course or short on time, then "Beginner Divers" is perfect for you. This experience allows you to explore underwater life during your vacation or in your daily life without committing to a full course. To join, you just need to be at least 14 years old and in good health. No prior diving experience is necessary.
 {{< /brick_title >}}
+
+---
+{{< brick_image >}}
+![diving fethiye](/uploads/illustrations/cuate/dalis3.svg)
+
+# How To Set Up And Use Diving Equipment <u>Underwater.</u>
+Learn How To Re-Use A **Mask** when its filled up with water. We Will Also Teach How **Scuba Requlator** and **tank** works and also learn how to swim like a fish with **fins.**
+
+
+{{< /brick_image >}}
+
+
+{{< brick_image2 >}}
+
+
+# Learn How To Breath Underwater
+- Breathe deep into the abdomen –'belly breathing'
+- Breaths should be relaxed, gentle and slow.
+- Be calm, controlled and conscious of your breathing.
+- Use a passive inhalation and passive exhalation.
+- Pause slightly at the end of the exhalation.
+![diving fethiye](/uploads/illustrations/cuate/dalis5.svg)
+{{< /brick_image2 >}}
 {{< brick_prices >}}
 
 ---
 
-**Pirate Boat**
-### Best For Everyone!
+**Fethiye Diving**
+### Whole Day Tour
 
-![Ölüdeniz pirate boat](/uploads/Oludeniz/kopuk.webp)
+![Fethiye Diving Center](/uploads/Diving/divingboat.jpeg)
 
-Come aboard our exciting day trip, suitable for all ages! **We set sail at 10:30 am and return by 5:30 pm**, ensuring a full day of adventure. fun never stops! With music playing throughout the day, you'll feel the excitement in the air. After a satisfying lunch, dive into the foam party and let loose with fellow travelers. Join us for an unforgettable journey filled with laughter, exploration, and plenty of surprises!
+Come aboard on our exciting full day trip, suitable for all ages! **We set sail at 09:30 and return by 17:30**, ensuring a full day of adventure. After diving into our diving spot we will have a satisfying lunch, after your first dive we sill go to the second scuba diving spot and spend another half an hour in the underwater world.
 
 ### _$_**55**/Per Person
 #
 ### What Is Included?
 - Insurance
 - 7/24 Customer Service
-- Open Buffet Lunch
+- Lunch
+- Equipment
 #
 ### What To Bring?
 - 🧴 **Sunscreen**
@@ -179,27 +189,26 @@ Come aboard our exciting day trip, suitable for all ages! **We set sail at 10:30
 - 🤿 Snorkel
 - 👟 Water Shoes (optional)
 - 💵 Cash
+- 👙 Swimsuits
 #
 ### What's Not Included?
 1. Alcoholic bevareges
-1. Entry Fee's
-1. Ringo, Banana And Other Water Sports.
 1. Other Food and Snack Alternatives
 
 [Book Now](/get-started/)
 ---
-**Family Boat**
-### Best For Groups And Families
-![Ölüdeniz Boat Trip](/uploads/12Island/boat/boat2.jpg)
-###  - Families & Couples Only -
-Welcome aboaard on our Family boat. **We set sail at 10:30 am at Ölüdeniz Beach and return by 5:30 pm**. Our boat can hold up to **80 people**, making it a good choice for the Oludeniz boat trip. Our boat can fill up fast, we recommend booking at least two days ahead of time. You can also call us before booking to make sure there's space available.
+**Ölüdeniz Diving**
+### Half Day Alternative
+![Ölüdeniz diving](/uploads/Diving/bluecave.jpeg)
+###  2 Diving Alternative Time Slots
+Welcome aboaard on our Ölüdeniz Scuba Diving Boat. **We set sail at 10:00am, 01:00pm and at 03:00pm departuring from Ölüdeniz Beach and return after an 1.30 hour journey**. Our boat can hold up to **20 people**, making it a good choice for the Oludeniz Diving trip. Our boat can fill up fast, we recommend booking at least two days ahead of time. You can also call us before booking to make sure there's space available.
 
 ### _$_**40**/Per Person
 #
 ### What Is Included?
 - Insurance
 - 7/24 Customer Service
-- Open Buffet Lunch
+- Equipment
 #
 ### What To Bring?
 - 🧴 **Sunscreen**
@@ -208,11 +217,10 @@ Welcome aboaard on our Family boat. **We set sail at 10:30 am at Ölüdeniz Beac
 - 🤿 Snorkel
 - 👟 Water Shoes (optional)
 - 💵 Cash
+- 👙 Swimsuits
 #
 ### What's Not Included?
 1. Alcoholic bevareges
-1. Entry Fee's
-1. Ringo, Banana And Other Water Sports.
 1. Other Food and Snack Alternatives
 
 
@@ -220,14 +228,13 @@ Welcome aboaard on our Family boat. **We set sail at 10:30 am at Ölüdeniz Beac
 
 ---
 
-**Sunset Boat**
-### Let Hearts Be Filled With Joy
+**Special Diving**
+### Custome Tour
 
-![Ölüdeniz Sunset Boat Trip](/uploads/Oludeniz/sunset.webp)
+![ölüdeniz diving](/uploads/Diving/specialdiving.jpeg)
 
-Join our Sunset Tour **departing at 6:00 PM, returning at 10:30 PM.** Enjoy swimming, sunset views, a delicious dinner, and a lively foam party with DJ tunes on our Party Boat. Don't forget your towel for swimming and foam fun. Experience the sunset from upper decks, dance on the middle deck, and dine below. Unforgettable evening guaranteed!
-
-### _$_**35**/Per Person
+Interested In Something Different? Our Special Diving Tour Is Just For You! Our Friends At The Lagoon Will Take You On With A Speed Boat To Go To Our **Diving Sites.** You Can Choose Your Desired Diving Site At The Tabs Section And Let Us Know! 
+### _$_**Please Ask**
 #
 ### What Is Included?
 - Insurance

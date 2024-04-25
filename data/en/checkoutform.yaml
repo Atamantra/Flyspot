@@ -1,0 +1,47 @@
+action: https://formspree.io/f/xwkgnnbq
+placeholders: false
+fields: 
+- name: title
+  input_type: html
+  placeholder: <h3>What Would You Like To Do?</h3>
+  required: 
+- name: name
+  input_type: text
+  placeholder: Full Name
+  required: true
+- name: Phone
+  input_type: tel
+  placeholder: Phone Number (optional)
+  required: true
+- name: email
+  input_type: email
+  placeholder: Email Address
+  required: true
+- name: date
+  input_type: date
+  placeholder: Travel Date
+  required: 
+- name: Total Number Of People
+  input_type: Number
+  placeholder: Number Of People
+  required: true
+- name: title
+  input_type: html
+  placeholder: <h3>Please Mention The Tour You Would Like To Attend</h3>
+  required: true
+- name: message 
+  input_type: textarea
+  placeholder: Details about the experience
+  required: false
+- name: terms
+  input_type: checkbox
+  placeholder: I accept the terms and conditions *
+  required: true
+- name: submit
+  input_type: submit
+  placeholder: Submit form
+  required: 
+- name: text
+  input_type: html
+  placeholder: <h5> Reqiured Fields * </h5>
+  required: 

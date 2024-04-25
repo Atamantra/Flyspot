@@ -5,10 +5,10 @@ title: Home
 # ‎ 
 # ‎ 
 #### 📍 Fethiye, Muğla 
-# Tandem Paragliding at Turkey
+# Tandem Paragliding Over Ölüdeniz Beach
 # ‎ 
 
-#### Let The Skies Embrace You, And Feel One With Nature Under The Supervision Of Our Excellent Pilots. You Will Feel Free Like A Bird From Our Summit Of 1950 Meters Height at Babadağ. Your Average Time at Midair is 40 Minutes till Landing In Ölüdeniz. Have A Broader Scope. Recommended to High Adrenaline Lovers, Carefull It Can Be Addictive.
+#### Soar above **Mt. Babadağ**, enjoying stunning views of **Ölüdeniz** and the **Blue Lagoon**. Choose to upgrade for epic photos and videos shot with the latest 360-degree action cameras. Our adventure holds a proven quality badge from TripAdvisor. Perfect for budget-conscious travelers seeking high-adrenaline experiences, but beware, it can be addictive.
 
 
 {{< button "Learn More" "/paragliding/" >}}
@@ -19,43 +19,60 @@ title: Home
 
 {{< brick_title2 >}}
 
-# NGParamotor & Paratrike
-#### 📍 Antalya, Manavgat
-# ‎ 
-#### Paramotoring, also known as powered paragliding, combines the simplicity of paragliding with the added thrill of a motorized engine strapped to your back. 
-
-{{< button "Learn More" "/paratrike/" >}}
-
-![](/uploads/Paratrike/paratrike.jpeg)
-
-{{< /brick_title2 >}}
-
-{{< brick_title2 >}}
-
-# Blue SKY Microlight & Gyrocopter
-#### 📍 Dalyan, Iztuzu Beach
-#### Feel the thrill as you glide through the air, enjoying incredible views. Upgrade your experience to get cool photos and videos shot by a special 360-degree camera.
-
-{{< button "Learn More" "/paragliding/" >}}
-
-![](/uploads/photos/pic.webp)
-
-{{< /brick_title2 >}}
-
-{{< brick_title2 >}}
-
 #### 📍 Muğla, Denizli, Antalya 
 # Educations & Formation
 
 #### Learn To Fly On Your Own With Our Private and Group Educations, Our Educations Are One Of The Best Ways Of Spending Your Time At Turkey. Flying Threw Mountains Soaring and learning new skills... In Flyspot Instutuion Our Passionate Teachers Will Be Your Guide With No Language Barriers.
 
-{{< button "Learn More" "/paragliding/" >}}
+{{< button "Learn More" "/edu/" >}}
 
 ![](/uploads/photos/pg.jpg)
 
 {{< /brick_title2 >}}
 
+<script>
+        (function(d, s, id) {
+            if (d.getElementById(id)) {
+                if (window.__TOMORROW__) {
+                    window.__TOMORROW__.renderWidget();
+                }
+                return;
+            }
+            const fjs = d.getElementsByTagName(s)[0];
+            const js = d.createElement(s);
+            js.id = id;
+            js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+
+            fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'tomorrow-sdk');
+        </script>
+<div class="tomorrow"
+           data-location-id="107640"
+           data-language="EN"
+           data-unit-system="METRIC"
+           data-skin="light"
+           data-widget-type="upcoming"
+           style="padding-bottom:22px;position:relative;"
+              >
+          <a
+            href="https://www.tomorrow.io/weather-api/"
+            rel="nofollow noopener noreferrer"
+            target="_blank"
+            style="position: absolute; bottom: 0; transform: translateX(-50%); left: 50%;"
+          >
+            <img
+              alt="Powered by the Tomorrow.io Weather API"
+              src="https://weather-website-client.tomorrow.io/img/powered-by.svg"
+              width="250"
+              height="18"
+            />
+          </a>
+        </div>
+
+
 {{< brick_intro >}}
+
+
 # Our Tour Selection
 ### 📍 Muğla, Fethiye
 
@@ -81,6 +98,7 @@ Welcome to our spot in Fethiye, right by Ölüdeniz Beach! We're all about givin
 - High Insurance
 
 {{< /brick_image2 >}}
+
 {{< brick_image >}}
 
 ## Safety and Satisfaction as Standard
@@ -92,6 +110,16 @@ Our goal is to offer fun and educational activities for everyone worldwide. Your
 
 {{< /brick_image >}}
 {{< brick_reviews >}}{{< /brick_reviews >}}
+
+
+{{< brick_title >}}
+# Instagram
+@FlyspotAirsports
+{{< /brick_title >}}
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/1062121" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
 {{< brick_prices >}}
 ## Our friendly pricing
 
@@ -156,4 +184,6 @@ Explore the most beloved Fethiye boat cruise, offering a unique and unforgettabl
 {{< button "Check All Our Tours" "/Tours/" >}}
 {{< /brick_title >}}
 {{< brick_cta >}}{{< /brick_cta >}}
-
+{{< brick_title >}}
+<div style="width:448px;border:1px solid #1684A5;"><div style="text-align:center;background-color:#1684A5;height:30px;width:100%;font-size:17px;font-weight:bold;padding-top:2px;"><a href="" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="https://www.exchangeratewidget.com/converter.php?l=en&f=TRY&t=USD&a=4850&d=F0F0F0&n=FFFFFF&o=050505&v=2"></script></div>
+{{< /brick_title >}}

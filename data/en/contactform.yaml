@@ -1,27 +1,35 @@
-action: /form.php
+action: https://formspree.io/f/mbjnaaaz
 placeholders: false
 fields: 
 - name: title
   input_type: html
-  placeholder: <h3>Tell us a bit about yourself</h3>
+  placeholder: <h3>How Can We Help?</h3>
   required: true
-- name: name
+- name: name *
   input_type: text
-  placeholder: Name
+  placeholder: Full Name *
+  required: true
+- name: Phone *
+  input_type: tel
+  placeholder: Phone Number *
   required: true
 - name: email
   input_type: email
-  placeholder: Email address
+  placeholder: Email Address *
   required: true
-- name: message
+- name: message 
   input_type: textarea
-  placeholder: What Would You Like To Do?
-  required: true
+  placeholder: Tell Us More.
+  required: false
 - name: terms
   input_type: checkbox
-  placeholder: I accept the terms and conditions
+  placeholder: I accept the terms and conditions *
   required: true
 - name: submit
   input_type: submit
   placeholder: Submit form
+  required: true
+- name: text
+  input_type: html
+  placeholder: <h5> Reqiured Fields * </h5>
   required: true

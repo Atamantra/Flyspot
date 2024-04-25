@@ -45,7 +45,13 @@
 - title: Scuba Diving
   faqs:
     - question: Can I Come As A Non Diver?
-      answer: Yes, you can.
+      answer: Yes, you can. But you will need to pay for the boat tour.
+    - question: I don't know how to swim can I still come?
+      answer: Yes! It's easier for non swimmers to learn scuba diving.
+    - question: What kind of animals are there underwater?
+      answer: There are various species such us anemones, crabs, octopus, turtles, sea cucumbers and more! 
+    - question: What is the avarage time we will be underwater?
+      answer: Each diving session is around 20 - 30 minutes.
 - title: Horse Riding
   faqs:
     - question: Is It Easy To Ride A Horse?

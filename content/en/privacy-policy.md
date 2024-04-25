@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 ---
-{{< brick_title >}}
+{{< brick_wide >}}
 
 # Privacy policy
 
@@ -39,7 +39,7 @@ Flyspot will comply with legal requirements regarding the collection, processing
 ## Contact
 If you have any questions or suggestions regarding this Privacy Policy, you can contact Flyspot. Contact information can be found on the Site.
 
-## GENERAL RIGHTS
+## General Rights
 If you have an account registered on this website or have commented, you can request an exported file of the personal data we hold about you, including any additional data you have provided to us.
 
 You can also request that we delete any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. In short, we cannot delete data that we need to keep for vital purposes such as maintaining an active customer account (e.g., basic account information like email address).
@@ -110,4 +110,4 @@ If Users have any questions, comments, or concerns about Flyspot, they can conta
 Last updated: Feb 30, 2024
 
 [Contact](/contact)
-{{< /brick_title >}}
+{{< /brick_wide >}}

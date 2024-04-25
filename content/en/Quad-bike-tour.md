@@ -38,7 +38,7 @@ language: "English"
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
-#### You can choose to ride solo on an ATV or opt for one ATV for two people. Your transfer to the activity, insurance, fuel, and an instructor who will provide you with training and guidance are included. 
+#### You can choose to ride solo on an ATV or opt for one ATV for two people. Your transfer to the activity, insurance, fuel, and an instructor who will provide you with docs and guidance are included. 
 ![Fethiye Rafting ](/uploads/atv/4.jpeg)
 {{< /brick_title2 >}}
 

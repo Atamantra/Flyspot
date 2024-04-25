@@ -2,10 +2,10 @@
     {{- range (index page.Site.Data page.Site.Language.Lang).people -}}
         <li>
             <div class="box">
-            <img src="{{ .image }}" alt="{{ .name }}" class="avatar colorize_image" />
+            <img src="{{ .image }}" alt="{{ .name }}" class="avatar" />
             <h3>{{- .name -}}</h3>
             <div class="function">{{- .function | safeHTML -}}</div>
-            <p>{{- .description | safeHTML -}}</p>
+            <p>{{- .description | safeHTML -}}</p>      
             <ul class="buttons">
                 {{- if .phone -}}
                     <li><a href="tel:{{ replace .phone ` ` `` }}" class="button icon"><img src="/img/phone.svg" alt="{{ .phone }}" /></a></li>
@@ -13,8 +13,8 @@
                 {{- if .email -}}
                     <li><a href="mailto:{{ .email }}" class="button icon"><img src="/img/email.svg" alt="{{ .email }}" /></a></li>
                 {{- end -}}
-                {{- if .linkedin -}}
-                    <li><a href="{{ .linkedin }}" class="button icon" target="_blank"><img src="/img/linkedin.svg" alt="{{ .linkedin }}" /></a></li>
+                {{- if .instagram -}}
+                    <li><a href="{{ .instagram }}" class="button icon" target="_blank"><img src="/img/instagram.svg" alt="{{ .instagram }}" /></a></li>
                 {{- end -}}
                 {{- if .website -}}
                     <li><a href="{{ .website }}" class="button icon" target="_blank"><img src="/img/world.svg" alt="{{ .website }}" /></a></li>

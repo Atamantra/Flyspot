@@ -1,12 +1,12 @@
 ---
-title: Flying solo
-image: "/uploads/Paragliding/1.jpg"
+title: Paragliding
 url: /paraglidingbooking/
+image: /uploads/Paragliding/1.jpg
 images:
-- image:
+- image: /uploads/Paragliding/2.jpg
 variant_type: Flight
 variants:
-- name: Full Package 100$ + 35$
+- name: With Pictures 135$
   price: 135
   sku: zg
 - name: Just Flight 100$
@@ -16,10 +16,11 @@ weight: 1
 ---
 
 {{< brick_product >}}
-
-# Tandem Paragliding
 ##### 📍 Fethiye, Ölüdeniz
-If You Wish You Can let U
+# Tandem Paragliding
+
+
+#####
 
 By Paying A Deposit You Will Claim Any Date You Wish To Fly. Just Let Us Know 24 Hours Before Your Booking For A Smooth Operation. If You Wish To Pay In A Different Currency Please [Contact Us](/contact)
 {{< /brick_product >}}

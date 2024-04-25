@@ -1,12 +1,19 @@
 logo_image:
-logo_subtitle: Paragliding & Travel
-mobile_view_width: 1000
+logo_subtitle: Airsports & Travel Agency
+mobile_view_width: 1100
 menuitems:
+  - title: Language
+    items: 
+      - title: Türkçe
+        link: /tr/
+      - title: English
+        link: /en/
+  - title: Blog
+    link: /blog/
   - title: About
     link: /about/
-    items: 
-      - title:
-        link:
+  - title: Contact
+    link: /contact/
   - title: Tours
     link: /Tours/
     items: 
@@ -15,28 +22,32 @@ menuitems:
       - title: Horse Riding
         link: /horseriding/
       - title: Scuba Diving
-        link: /scubadiving/cs
+        link: /scubadiving/
       - title: Dalyan Tour
         link: /dalyan/
       - title: 12 Island Boat Trip
         link: /12Island/
       - title: Oludeniz Boat Trip
         link: /oludenizboat/
-
-  - title: Docs
-    link: /docs/
-  - title: Blog
-    link: /blog/
-  - title: Contact us
-    link: /contact/
-  - title: Language ॐ
-    link: 
-    items: 
-      - title: Türkçe
-        link: /tr/
-      - title: English
-        link: /en/
+      - title: Jeep Safari
+        link: /jeepsafari/
+      - title: Rafting
+        link: /rafting/
+      - title: ATV Safari
+        link: /atv/
+      - title: Dalyan Microlight
+        link: /microlight/
+  - title: Educations
+    link: /edu/
+    items:
+      - title: Paragliding
+        link: /edu/paragliding
+      - title: Skydiving
+        link: /edu/skydiving
+      - title: Paratrike & Paramotor
+        link: /ngparamotor/
 cta:
   active: true
   title: Get started
   link: /get-started/
+  

@@ -2,6 +2,11 @@
 title: Checkout
 url: /checkout
 ---
+{{< brick_small >}}
+{{< checkoutform >}}
 
-{{< checkout `Payments are 100% secure and will be handled by either Mollies Paylink service, called Plink, or Paypal.me. In the next screen you will be redirected to a secure
-checkout process on either useplink.com or paypal.me.` >}}
+![General Data Protection Regulation Approved Form From Formspree](/uploads/secure/gdpr.svg)
+![California Consumer Privacy Act Approved Form From Formspree](/uploads/secure/ccpa.svg)
+
+{{< /brick_small >}}
+

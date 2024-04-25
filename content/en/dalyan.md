@@ -132,6 +132,7 @@ Our horse riding tour offers an unparalleled opportunity to connect with nature,
 [Book Now](/get-started/)
 
 {{< /brick_prices >}}
+
 {{< brick_cta >}}{{< /brick_cta >}}
 
 

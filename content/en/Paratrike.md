@@ -15,7 +15,7 @@ language: "English"
 {{< brick_title2 >}}
 # ‎ 
 # ‎ 
-![ng paramotor & paratrike](/uploads/Paratrike/paratrike.jpeg)
+![ng paramotor & paratrike](/uploads/paratrike/paratrike.jpeg)
 # ‎ 
 # ‎ 
 {{< /brick_title2 >}}
@@ -33,7 +33,7 @@ language: "English"
 # ‎ 
 
 
-![paratrike turkey](/uploads/Paratrike/prt.jpeg)
+![paratrike turkey](/uploads/paratrike/prt.jpeg)
 ## Paragliding Equipment Preparation
 
 {{< /brick_title2 >}}
@@ -44,7 +44,7 @@ language: "English"
 # PARATRIKE
 # ‎ 
 
-![paratrike turkey](/uploads/Paratrike/prt2.jpeg)
+![paratrike turkey](/uploads/paratrike/prt2.jpeg)
 ## Paragliding Equipment Preparation
 
 {{< /brick_title2 >}}
@@ -53,7 +53,7 @@ language: "English"
 #
 #### CONTACT NOW FOR MORE DETAIL
 #
-![paratrike turkey](/uploads/Paratrike/prt3.jpeg)
+![paratrike turkey](/uploads/paratrike/prt3.jpeg)
 ## Paragliding First Steps
 
 
@@ -61,7 +61,7 @@ language: "English"
 ---
 ## Videos
 {{< brick_title2 >}}
-{{< video "/uploads/Paratrike/ngvid.mp4" >}}
+{{< video "/uploads/paratrike/ngvid.mp4" >}}
 The Paratrike Flight will take around 20-25 minutes, If the weather is good we will fly at the safest conditions
 {{< /brick_title2 >}}
 

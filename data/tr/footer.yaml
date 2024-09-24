@@ -3,21 +3,26 @@ light_footer: true
 menuitems:
   - title: Hakkımızda
     link:  /hakkimizda/
-  - title: Elements
-    link:  /elements/
+  - title: İletişim
+    link:  /iletisim/
   - title: Gizlilik Sözleşmemiz
     link:  /Gizlilik-sozlesmesi/
+  - title:  Çerezler 🍪
+    link:  /cerezler/
+  - title:  SSS
+    link:  /sss/
+  - title: Turlarımız
+    link:  /turlar/
+
 socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg
-  - title: Twitter
-    link: https://twitter.com
-    logo_image: /img/twitter.svg      
-  - title: Mastodon
-    link: https://joinmastodon.org
-    logo_image: /img/mastodon.svg      
   - title: Instagram
     link: https://instagram.com/flyspotairsports
     logo_image: /img/instagram.svg
-footer_text: Tursab no 15437
+  - title: Whatsapp
+    link: https://wa.me/905339230963
+    logo_image: /img/whatsapp.svg
+  - title: Telegram
+    link: https://telegram.me/Atamantra
+    logo_image: /img/telegram.svg
+  
+footer_text: Flyspot™ All rights reserved - Tursab No.15437

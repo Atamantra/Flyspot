@@ -1,9 +1,9 @@
 items:
-  - title: Google Anaytics (functional)
-    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.
+  - title: Google Analytics (işlevsel)
+    description: Bu kod, web sitemizi ziyaret eden kişi sayısının, nereden geldikleri ve neye tıkladıklarının içgörüsünü sağlar.
     is_functional: true
     script_file: ga.js
-  - title: Crisp chat
-    description: This code gives users the option to chat directly with us through a chat box in the bottom right corner.
+  - title: Crisp Sohbet
+    description: Bu kod, kullanıcılara doğrudan sağ alt köşede bulunan bir sohbet kutusu aracılığıyla bizimle iletişim kurma seçeneği sunar.
     is_functional: false
     script_file: crisp.js

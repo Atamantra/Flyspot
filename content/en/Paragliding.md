@@ -5,18 +5,20 @@ description: "Learn More Details About Paragliding At Turkey, Fethiye, Oludeniz"
 categories: ["Tours", "Fethiye"]
 author: "Atamantra"
 tags: ["Paragliding", "Fethiye"]
-draft: false
-language: "English"
 ---
 {{< brick_title2 >}}
-
+# ‎ 
+# ‎ 
 ## Tandem Paragliding
 #### 📍 Babadağ, Fethiye, Muğla 
 
+# ‎ 
 
 ![](/uploads/Paragliding/pg360.jpg)
 {{< button "Book Now" "/paraglidingbooking/" >}}
+
 {{< /brick_title2 >}}
+
 {{< tabs >}}
 
 ## About
@@ -88,6 +90,7 @@ United by a shared passion for aviation, our team has come together with a clear
 {{< /brick_team >}}
 ---
 ## Photos 
+{{< gallery dir="/uploads/Paragliding/gallery/" >}}
 {{< brick_title2 >}}
 
 # ‎ 
@@ -103,11 +106,11 @@ United by a shared passion for aviation, our team has come together with a clear
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
-
+# ‎ 
 # ‎ 
 # For An
 # ‎ 
-
+# ‎ 
 ![Babadağ 1700 meter takeoff area](/uploads/photos/2-min.jpg)
 ## Paragliding Equipment Preparation
 
@@ -123,12 +126,13 @@ United by a shared passion for aviation, our team has come together with a clear
 
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
-
 # ‎ 
-
-# Ride
+# ‎ 
+# ‎ 
+# ‎ 
+# Journey
 #
-#
+# ‎ 
 ![Babadağ 1700 meter takeoff area](/uploads/photos/fp-min.jpg)
 ## Paragliding First Steps
 {{< /brick_title2 >}}
@@ -156,7 +160,7 @@ This Manover is called The Helicopter. Dont Panic We Only Do this when the Passa
 ![Ölüdeniz pirate boat](/uploads/paragliding/5.jpg)
 
 Everyone Can Do This Activity!
-### _$_**100**/Per Person
+### _$_**150**/Per Person
 #
 ### What Is Included?
 - Insurance
@@ -174,10 +178,11 @@ Everyone Can Do This Activity!
 - 💵 **Cash**
 #
 ### What's Not Included?
-GoPro Footage + 35 USD 
+GoPro Footage + 30 USD 
 
 [Book Now](/paraglidingbooking/)
 
 {{< /brick_prices >}}
+
 
 {{< brick_cta >}}{{< /brick_cta >}}

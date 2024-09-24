@@ -10,39 +10,33 @@ categories: ["Tours", "Fethiye", "Boat Trips"]
 author: "Atamantra"
 tags: ["Horse Riding", "Fethiye", "Tours"]
 draft: false
-language: "English"
+language: "en"
 ---
 {{< brick_title2 >}}
-
-# ‎ 
+# ‎
+## Dalyan Tour
+#### 📍 Ortaca, Muğla
 ![Dalyan Tour](/uploads/dalyan/tomb-min.jpg)
-# Dalyan Tour
-# ‎ 
+# ‎
 {{< /brick_title2 >}}
-
 
 {{< tabs >}}
----
-## About Dalyan Tour
----
-## Gallery
-{{< brick_title2 >}}
- Video
-{{< video "/uploads/dalyan/DalyanTour.mp4" >}}
-{{< gallery dir="/uploads/Dalyan/" >}}
 
-{{< /brick_title2 >}}
 ---
-## FAQ
+## About the Dalyan Tour
+---
+## Video
 {{< brick_title2 >}}
-{{< faq 4 >}}
+{{< video "/uploads/dalyan/DalyanTour.mp4" >}}
 {{< /brick_title2 >}}
 ---
 {{< /tabs >}}
 {{< brick_title >}}
 
 {{< brick_title >}}
-The Classic Dalyan Daily Tour offers a full-day adventure with boat trips, swimming, visits to historical sites like the Rock Tombs and Kaunos Ancient City, and indulging in local cuisine, including a mud bath experience. It's a comprehensive exploration of Dalyan's beauty and culture, perfect for all types of travelers.
+{{< gallery dir="/uploads/dalyan/dalyanturu/" >}}
+
+### Our full-day Dalyan tour offers a boat trip, swimming, visits to the rock tombs and the ancient city of Kaunos, local cuisine, and a mud bath experience. It's a comprehensive exploration of Dalyan's beauty and culture, perfect for every traveler.
 
 ---
 
@@ -51,93 +45,79 @@ The Classic Dalyan Daily Tour offers a full-day adventure with boat trips, swimm
 {{< /brick_title >}}
 
 {{< brick_title2 >}}
-# ‎ 
+## Full of Adventure and Fun!
+### Every morning at 10:30, we pick you up from your accommodation and take you to our tour starting point. After our guide's briefing about the boat, the boats set off. A pleasant day awaits you.
 
-#### Starting every morning at 10:30, we pick you up from your accommodation point and take you to our tour starting point with our vehicles. After the briefing by our guide on the boat, the boats set sail. A delightful day awaits you.
-
-## Pickup Points & Time
-#### Ölüdeniz: 08:00
-#### Likya Liberty Hotel: 08:00
-#### Hisarönü/Ovacık: 08:15
-#### Fethiye: 08:30
-#### Club Tuana: 09:15
-#### Dalyan Harbour: 10:15
-
-# ‎ 
-![Dalyan Iztuzu](/uploads/dalyan/izt.jpeg)
-
-{{< /brick_title2 >}}
-
-
-{{< brick_title2 >}}
-
-#### Within the tour program, your first stop will be the Rock Tombs, which have survived from the Lycian civilization to the present day. These magnificent rock tombs, carved with astonishing delicacy into cliffs rising at an angle of 80 degrees, are considered a testament to the wealth and power of the ancient city of Kaunos.
-
-
-![Ancient Tombs Of Lycians](/uploads/dalyan/tombvib.jpeg)
-
+---
 
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
-![Ancient Tombs Of Lycians](/uploads/dalyan/riv.jpeg)
-#### Following the visit to the rock tombs, you'll continue your journey through the reed beds of the Lagoon. Guests have the opportunity to taste the flavors of Blue Crabs and don't forget to have your cameras ready to capture the moments of seeing Caretta Caretta sea turtles.
-#### Upon arrival at İztuzu Beach, guests will have two hours to enjoy swimming. It's time to meet with the crystal-clear sea, fine sands, and warm Aegean sun.
-
+## Rock Tombs
+### The first stop on our tour is the rock tombs that have survived from the Lycian civilization to the present day. These magnificent rock tombs are carved into the rocks at an angle of 80 degrees with surprising finesse, serving as a testament to the wealth and power of the ancient city.
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+---
+## A Journey Through Blue Waters
+### After visiting the rock tombs, you will continue your lagoon journey through the reeds. Guests will have the opportunity to taste Blue Crabs and capture moments with their cameras to see Caretta Caretta sea turtles.
+---
+## Enjoy the Sea
+### Upon arrival at İztuzu Beach, guests will enjoy two hours of swimming. It's time to enjoy the crystal-clear sea, fine sands, and warm Aegean sun.
+---
 {{< /brick_title2 >}}
 
 {{< brick_title2 >}}
-
-#### After the two-hour swimming break, our boat will depart for our restaurant to introduce you to the flavors of the southern Aegean cuisine. We'll take you to our restaurant through the richness of natural life among the reeds, where you can see birds, Caretta Caretta turtles, and fish. Our waiters will serve an à la carte plate adorned with Aegean flavors such as shakshuka, potato salad, tzatziki, spaghetti, rice, and seasonal salad, along with your choice of chicken or fish.
-
-
-![Horse Riding Ölüdeniz](/uploads/Background/food.png)
+## Lunch Time!
+### After a two-hour swimming break, our boat will take you to our restaurant to introduce you to the flavors of southern Aegean cuisine. We will take you to our restaurant amid the natural richness of the reeds, where you can see birds, Caretta Caretta turtles, and fish. Our waiters will serve an à la carte plate adorned with Aegean delicacies such as vegetable sauté, potato salad, tzatziki, spaghetti, rice, and seasonal salad, with chicken or fish options according to your preference.
 {{< /brick_title2 >}}
 
 ---
+
+{{< brick_title >}}
+## Mud Bath!
+### It's time to relax your sun-warmed skin with a Mud Bath. The Natural Mud Bath and thermal hot spring, a favorite spot for international celebrities like Dustin Hoffman and Sting in the 1990s, will make you feel good. Don't forget to take photos.
+{{< /brick_title >}}
+![Mud Bath Dalyan](/uploads/dalyan/camur.jpeg)
+---
 {{< brick_title2 >}}
-#### It's time to relax your mind, which was amazed by the splendor of the rock tombs, your body tired from swimming at İztuzu, and your skin warmed by the sun, with a Mud Bath. The Natural Mud Bath and thermal hot water, which were a favorite spot for many international celebrities in the 1990s like Dustin Hoffman and Sting, will make you feel good. Don't forget to take photos.
-![Horse Riding Ölüdeniz](/uploads/Horse/dad.webp)
+
+##### After the mud bath, we head towards Lake Köyceğiz, where we take a swimming break. Swimming in its cool and clean waters is a refreshing experience. Guests who wish can visit the ancient city of Kaunos, while those who feel they've seen enough can complete the tour. Guests who do not participate in the Kaunos Ancient City tour can make up for it the next day for free.
+---
+## Pickup Points and Times
+### Ölüdeniz: 08:00
+### Likya Liberty Hotel: 08:00
+### Hisarönü/Ovacık: 08:15
+### Fethiye: 08:30
+### Club Tuana: 09:15
+### Dalyan Harbor: 10:15
+---
 {{< /brick_title2 >}}
-{{< brick_title2 >}}
-
-#### After the mud bath, we head to Köyceğiz Lake to take a swim. Swimming in the fresh and cool waters of Köyceğiz Lake is a real chance to refresh for our bodies warmed by the Aegean sun. Then, guests who wish can visit the ancient city of Kaunos, while those who say "I've had enough" will conclude the tour. Guests who do not participate in the tour of the Kaunos Ancient City can make up for this the next day free of charge.
-
-![Horse Riding Ölüdeniz](/uploads/Horse/dad.webp)
-{{< /brick_title2 >}}
-
 
 {{< brick_prices >}}
 
 ---
-**Beginner Level**
-### Horse Riding At Fethiye
-![Horse Riding At Fethiye](/uploads/Horse/women.webp)
-Our horse riding tour offers an unparalleled opportunity to connect with nature, immerse yourself in local culture, and forge lasting bonds with fellow adventurers. Whether you're a novice rider or an experienced equestrian, our expert guides ensure a safe and unforgettable experience every step of the way. Join us for an adventure of a lifetime as we explore the beauty of the natural world from the back of a horse.
-### _$_**45**/Per Person
-#
-### What Is Included?
-##### Insurance
-##### 7/24 Customer Service
-##### Transfer
-#
-### What To Bring?
-- 🧴 **Sunscreen**
-- 🥾 Shoes
-- 💵 Cash
-#
-### What's Not Included?
-1. Pictures, Videos (300₺)
+**Full-Day Activity**
+### Dalyan Tour Including Transfer
+![Boat Dalyan](/uploads/dalyan/teknedalyan.jpeg)
+In our Dalyan Tour, we pick you up from your hotel in the morning and provide necessary briefings upon arrival in Dalyan. We will visit the rock tombs, taste Blue Crabs, and if we're lucky, see turtles and rejuvenate our skin with a mud bath. In short, a full-day Dalyan exploration!
 
-[Book Now](/get-started/)
+### $**45**/Per Person
+
+### What's Included?
+##### Insurance
+##### 24/7 Customer Service
+##### Transfer
+##### Mud Bath Entrance Fee
+
+### What to Bring?
+- 🧴 **Sunscreen**
+- 💵 Cash
+
+### What's Not Included?
+- Entrance Fees
+
+[Book Now](/tr/get-started/)
 
 {{< /brick_prices >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}
-
-
-
-
-
-
-

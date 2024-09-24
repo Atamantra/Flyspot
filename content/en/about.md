@@ -1,9 +1,7 @@
 ---
 title: About
 ---
-
 # ‎ 
-
 {{< brick_about >}}
 # About Our Organization
 
@@ -13,7 +11,7 @@ Our extensive flight operations across Turkey, Georgia, and India. From thrillin
 
 Driven by a love for sports, entertainment, and the thrill of adventure, we are committed to sharing our collective wisdom with you and the global community. As you navigate through our platform, we invite you to dive deeper into our ethos, where you'll uncover fresh perspectives and boundless opportunities for personal and professional growth.
 
-Thank you for choosing Our Organization as your partner in discovery and adventure. We look forward to embarking on this exciting journey together.
+Thank you for choosing Our Organization as your partner in discovery and adventure. We look forward to arrange your journey together.
 
 Warm regards,Stay Chillin ☮
 

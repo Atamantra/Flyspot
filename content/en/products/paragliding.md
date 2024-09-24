@@ -6,21 +6,22 @@ images:
 - image: /uploads/Paragliding/2.jpg
 variant_type: Flight
 variants:
-- name: With Pictures 135$
-  price: 135
+- name: With Pictures (180$)
+  price: 180
   sku: zg
-- name: Just Flight 100$
-  price: 100
+- name: Just Flight (150$)
+  price: 150
   sku: 
 weight: 1
 ---
-
+# ‎
 {{< brick_product >}}
 ##### 📍 Fethiye, Ölüdeniz
 # Tandem Paragliding
 
+##### If You Wish To Pay In A Different Currency Please [Contact Us](/contact)
 
-#####
+##### You Will Recieve A Deposit Link After Filling The Form.
+# ‎
 
-By Paying A Deposit You Will Claim Any Date You Wish To Fly. Just Let Us Know 24 Hours Before Your Booking For A Smooth Operation. If You Wish To Pay In A Different Currency Please [Contact Us](/contact)
 {{< /brick_product >}}

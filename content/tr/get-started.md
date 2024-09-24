@@ -1,18 +1,20 @@
 ---
-title: Bize Ulaşın
-url: /bizeulasin/
+title: Rezervasyon Formu
+url: /tr/get-started/
 ---
+‎ 
+
 {{< brick_small >}}
 
-{{< breadcrumbs >}}
 
-# Hadi Başlayalım!
+# Rezervasyon Formu
 
-Size Yardımcı Olmamızı İstediğiniz Bir Konumu Var? Hemen Formu Doldurun Ve Size En Kısa Sürede Ulaşmaya Çalışalım!
+Lütfen yapmak istediğiniz şeyi belirtin. Ardından bir depozito ödeme bağlantısı alacaksınız. Teşekkür ederiz!
 
----
+{{< checkoutform >}}
 
-{{< contactform >}}
+![Formspree'den GDPR Onaylı Form](/uploads/secure/gdpr.svg)
+![Formspree'den California Tüketici Gizlilik Yasası Onaylı Form](/uploads/secure/ccpa.svg)
 
 {{< /brick_small >}}
 {{< brick_map >}}{{< /brick_map >}}

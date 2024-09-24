@@ -2,14 +2,16 @@
 title: F.A.Q.
 image:
 --- 
+‎ 
+‎ 
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
 # Frequently Asked Questions
 
-Almost everything you want to know has been asked before. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
-
+Almost everything you want to know has been asked before.
+let us know if there is something in your mind.
 {{< /brick_title >}}
 {{< brick_wide >}}
 

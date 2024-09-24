@@ -1,7 +1,7 @@
 ---
 title: Oludeniz Boat Trip
 image: "/uploads/photos/boat.jpg"
-url: /oludenizboat/booking
+url: /oludenizboat/rezervasyon/
 images:
 - image:
 variant_type: 
@@ -18,23 +18,24 @@ variants:
 weight: 1
 ---
 
-
+# ‎ 
 {{< brick_product >}}
 
 {{< breadcrumbs >}}
 
 ### Welcome to the [Oludeniz Boat Tour](/oludenizboat/) Booking Page
+- ##### Prices Are Per Person.
 
 - ##### Children under age 10 are half priced.
 
-- ##### Pay 10 GBP and send an e-mail to recieve an e-ticket.
+- ##### Contact Us On Whatsapp Or Telegram For instant Confirmation [Call by Clicking Here](tel:+905339230963)
 
-- ##### Here You can pay a small deposite (10GBP) to book your place and secure your booking and pay the rest amount when you arrive
-- ##### You can send a deposite using this link bellow
+- ##### After filling up the form you will be contacted to pay a small deposite (10GBP) to book your place and secure your booking and pay the rest amount when you arrive. 
+
+- ##### Credit Card Payments Have An Extra %5 Comission.
 
 {{< /brick_product >}}
 {{< brick_wide >}}
-- ##### Want To Learn More About How To Book [Click This Link](/howtobook/)
 
 {{< map "/uploads/map123.png" "https://maps.app.goo.gl/toyVpzBCWoiJUDiE9" >}}
 {{< contactbuttons >}}

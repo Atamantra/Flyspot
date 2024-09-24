@@ -1,48 +1,59 @@
-- name: Gitio Hamano
-  function: Source Code version controller
-  image: /uploads/photos/avatars/2.jpeg
-  description: Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.
-  email: joost@vdschee.nl
-  phone:
-  linkedin: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
+- name: Ataberk Doğanlı
+  function: Tandem Pilot, Kurucu
+  image: /uploads/photos/avatars/ata.JPG
+  description: Çeşitli rollerde çalışmış ve birçok turda deneyim kazanmış olarak, yer ekibinden pilot olmaya kadar bir yolculuğa çıktım ve hayallerimi gerçekleştirmek için Flyspot'u kurdum. Farklı lokasyonlarda 2000'den fazla yamaç paraşütü uçuşuyla, gökyüzünde akrobatik uçuşlara büyük bir tutkuyla bağlıyım.
+  phone: +905339230963
+- name: Melek Aladağ
+  function: Müdür, Ortak Kurucu
+  description: Melek, kariyerine Halkla İlişkiler mezunu olarak başladı. Pronet Güvenlik ve Jeep Safari şirketlerinde operasyon ve satış müdürü olarak görev aldı. Ayrıca, Hava Kuvvetleri operasyonlarında sorumlulukları başarıyla üstlendi. Ayrıca, Flyspot'un kurucu ortağı olarak da tanınır.
+  image: /uploads/photos/avatars/melek.jpg
+  phone: +90 535 022 32 87
+- name: Hasan
+  function: Skydiving Eğitimi
+  image: /uploads/photos/avatars/hasan.jpg
+  description: Hasan Dökmetepelioğlu, 2004 yılında Marmara Üniversitesi Beden Eğitimi Öğretmenliği bölümünden mezun olmuştur. Hava sporları alanında geniş bir geçmişe sahip olan Dökmetepelioğlu, 2001 yılında serbest paraşütle atlamaya başlamıştır. 2008 yılında tandem yamaç paraşütü ve base jump sporlarına giriş yapmıştır. En son olarak, 2023 yılında tandem base jump sporuna başlamıştır. Dökmetepelioğlu, 1000'in üzerinde serbest atlayış ve yaklaşık 13-14 bin civarında yamaç paraşütü uçuşu deneyimine sahiptir.
+- name: Osman
+  function: Tandem Pilot
+  image: /uploads/photos/avatars/osm.jpeg
+  description: Osman, en deneyimli pilotumuzdur. Onun olmadığı bir gün ne yapacağımızı bilmiyoruz. Birçok yıldır yamaç paraşütü yapıyor ve günün sonunda herkesi gülümsetmeyi başarıyor. Osman, harika bir mizah anlayışına sahip dikkat çekici bir adamdır; onunla gökyüzünde asla sıkılmazsınız.
+- name: Hüseyin
+  function: Tandem Pilot
+  image: /uploads/photos/avatars/hus.jpeg
+  description: Hüseyin, yerel olarak tanınan bir pilot olup, yerel olarak çalışan 450 pilotun tümünün pilot kurulu başkanı olarak görev yapmıştır. Güçlü bir güvenlik reputasyonu ve geniş deneyimi sayesinde titiz bir yaklaşımla uçuşlara asla acele etmez ve kalkış öncesi her şeyin güvenli ve sağlam olduğundan emin olur.
+- name: Doğa Nil 
+  function: Doga Nil Doğanlı
+  image: /uploads/photos/doga.webp
+  description: İstanbul Üniversitesi'nde Sosyoloji ve Arkeoloji okuyarak sağlam bir akademik temel elde ettim. Kidrak Liberty Likya, Escape, Ölüdeniz Water Sports, Hanuman, Airborne gibi saygın şirketlerle çalışma şansına sahip oldum ve bu yıl Dragon Paragliding. Her deneyim benim yolculuğumu zenginleştirdi ve macera sporları alanındaki gelişimime önemli ölçüde katkıda bulundu ve aynı zamanda bir acemi pilotum.
+- name: Extreme-G
+  function: Siyah ve Beyaz Kanatlar 🦅
+  image: /uploads/photos/avatars/extremeg.jpeg
+  description: Extreme-G (Karakanatlar) olarak, havacılığın yer ekibinden pilotlara uzanan bir takım disiplini olduğunu anlıyoruz. Doğa ve diğer varlıklarla paylaşıldığında güzel anların ve kazançların, hem malzemelerin hem de manevi olanların neşesinin çoğaldığını biliyoruz.
+- name: OG
+  function: Oğulcan Geldikaya
+  image: /uploads/photos/avatars/1.jpeg
+  description: 1994 yılında İstanbul'da doğdum ve ilk günden beri bir adrenalindim. 2014'te yamaç paraşütü ve 2016'da skydiving eğitimleri aldıktan sonra, Türk Hava Kurumu'nda skydiver olarak çalıştım. Aynı zamanda yüzme antrenörü ve 3 yıldızlı dalış eğitmeniyim. Spora olan sevgim, yüzme, koşu, trekking, wingsuit uçuşu ve bisiklet sürmeyi içerir. 7 yıllık havacılık deneyimimle, 1000'den fazla yamaç paraşütü uçuşu ve 500'den fazla skydiving atlayışı gerçekleştirdim ve her zaman yeni maceralar peşindeyim.
+  email: 
+  phone: +90 531 086 87 57
+  instagram: https://www.instagram.com/ogulcangk/
   website:
-- name: Rasmus Phorfp
-  function: All Stacks developer 
-  image: /uploads/photos/s/1.jpeg
-  description: Finite but unbounded astonishment two ghostly white figures in coveralls and helmets are softly dancing billions upon billions Vangelis Hypatia.
-  email: joost@vdschee.nl
-  phone:
-  linkedin: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
-  website:
-- name: Madogg Kabul
-  function: Keyboard Guru
+- name: RedbullXC Bariş
+  function: Bariş Çelik
   image: /uploads/photos/avatars/3.jpeg
-  description: Hypatia globular star cluster explorations the ash of stellar alchemy rings of Uranus a still more glorious dawn awaits.
-  email: joost@vdschee.nl
-  phone:
-  linkedin: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
-  website:
-- name: Kenny Thompson
-  function: Nix architect
-  image: /uploads/photos/avatars/4.jpeg
-  description: Extraordinary claims require extraordinary evidence how far away a very small stage in a vast cosmic arena something incredible is waiting to be known.
-  email: joost@vdschee.nl
-  phone:
-  linkedin: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
-  website:
-- name: Linus O'Callaghan
-  function: Systems Administrator
-  image: /uploads/photos/avatars/5.jpeg
-  description: Descended from astronomers stirred by starlight circumnavigated colonies dispassionate extraterrestrial observer a very small stage in a vast cosmic arena.
-  email: joost@vdschee.nl
-  phone:
-  linkedin: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
-  website:
-- name: Ada Lovelace
-  function: Alma (cyber)Mater
-  image: /uploads/photos/avatars/6.jpeg
-  description: The carbon in our apple pies Drake Equation the only home we've ever known the ash of stellar alchemy Drake Equation star stuff extremely harvesting star light?
-  email: joost@vdschee.nl
-  phone:
-  linkedin:
-  website: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
+  description: 12 yıllık yamaç paraşütü deneyimiyle, üniversitelerde eğitim aldım ve şampiyonalar kazandım. Ayrıca dağcılık, dalış ve bisiklet gibi sporları keşfettim ve her birinde eğitmen sertifikalarına sahibim. Eğlenceli deneyimleri paylaşmaktan büyük keyif alıyorum ve bu nedenle 2021 yılında Extreme-G uçuş okulunu kurduk. Birlikte yükselelim!
+  email: bariscelik881@gmail.com
+  phone: +90 506 728 89 40
+  website: https://barisc.com.tr/
+- name: Şahin²
+  function: Şahin Şahin
+  image: /uploads/photos/avatars/sahin.webp
+  description: 1975 yılında Ankara'da doğdum ve ilk günden itibaren maceranın içindeyim. 2004 yılında skydiving, 2005 yılında yamaç paraşütü ve 2019 yılında da planör eğitimi aldım ve Türk Hava Kurumu'nda eğitmen ve tandem skydiver olarak görev yaptım. Ulusal Paraşütçü Takımı üyesi olarak ülkemi gururla temsil ettim. Hava sporlarının yanı sıra, dağcılık, bisiklet, kayak ve yelken gibi sporlardan keyif alıyorum. 17 yıllık havacılık deneyimiyle, 2000'den fazla skydiving atlayışı, 4500'den fazla yamaç paraşütü uçuşu, 100 saat microlight uçuşu ve 50 planör uçuşu yaparak her zaman sınırları zorluyorum.
+  email: kzushi@gmail.com
+  phone: +90 533 366 54 82
+  instagram: https://www.instagram.com/sahinsahin_tr/
+- name: Yavuz
+  function: Yavuz Aslan
+  image: /uploads/photos/avatars/yavuz.webp
+  description: 1986 yılında Ağrı'da doğdum ve maceraya 2005 yılında yamaç paraşütü ile başladım. Akdeniz Üniversitesi Havacılık Kulübü'nde eğitmen olarak görev yaptım ve yamaç paraşütüne olan tutkumu paylaştım. 2019 yılında repertuvarıma wingsuit uçuşunu ekledim. Ayrıca, snowboard, kayak, trekking, wingsuit uçuşu, rüzgar sörfü ve bisiklet sürmek gibi aktivitelerle ilgileniyorum. 16 yıllık havacılık deneyimiyle, 11.000'den fazla yamaç paraşütü uçuşu ve 50 wingsuit uçuşu yaparak, gökyüzünün heyecanını sürekli arıyorum.
+  email: info@extreme-g.com
+  phone: +90 541 270 42 81
+  instagram: https://www.instagram.com/yavuzaslan_tr/

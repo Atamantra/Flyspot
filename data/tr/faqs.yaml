@@ -1,22 +1,62 @@
-- title: Paragliding
+- title: Yamaç Paraşütü
   faqs:
-    - question: When Should I Do A Reservation For Paragliding
-      answer: All up to you. You can fly almost throughout a year. However, we recommend you booking at least 7 days before the day you wish to fly. If there’s less than 7 days remaining before your desired date, you can just call us. Of course, you can book a few months before your desired date with our assurance of a fixed price.
-    - question: What Happens If The Parachute Fails To Open When Taking Off?
-      answer: Such situations never happen! Parachutes are already opened on the ground and we do not start our flight with jumping off. A parachute rises up overtop after we take a few steps, and finally our flight starts after another few steps. In fact, your flight already starts while steps are taken. Your flight is never something like jumping off a cliff.
-- title: Boat Trips
+    - question: NE ZAMANLARI UÇUŞ OLUYOR?
+      answer: Her gün yamaç paraşütü için 5 zaman aralığı sunuyoruz (09:00-11:00-13:30-15:00-17:00) ve size uygun olan herhangi bir zaman aralığını seçip rezervasyon yapabilirsiniz.
+    - question: ULAŞIM HİZMETİ MEVCUT MU?
+      answer: Ulaşım hizmetleri günde 3 kez mevcuttur. Uçuşunuzdan sonra sizi otelinize veya konakladığınız yere alıp uçuştan sonra herzaman geri bırakırız. Hizmet için ekstra ücret yoktur ve program günü bilgilendirme yapılacaktır.
+    - question: NE ZAMAN VE NASIL REZERVASYON YAPTIRMALIYIM?
+      answer: Her şey size bağlı. Neredeyse yıl boyunca uçabilirsiniz. Ancak, uçmak istediğiniz gün öncesinde en az 1 gün önce rezervasyon yapmanızı öneririz. İstenen tarihten önce 24 saatten az süre kalmışsa, bize arayarak rezervasyon yapmanız daha güvenli olur. Tabii ki, istediğiniz tarihten aylar önce sabit bir fiyat garantimizle rezervasyon yapabilirsiniz. Ayrıca, sadece küçük bir depozito ile herhangi bir turu da rezerve edebilirsiniz.
+    - question: BİR DEPOZİTO ÖDEDİKTEN SONRA NE YAPMALIYIM?
+      answer: Biraz bekleyin yada daha sonra bize ulaşın
+    - question: KALKIŞTA ŞİŞMEYEN PARASÜT OLURSA NE OLUR?
+      answer: Böyle durumlar yaşanmaması için sabırlı oluyoruz. Paraşütler yerde açık muz şekilnde ve uçuşumuza "Takeoff" diye seslenmeden başlamamalıyız. Birkaç adım attıktan sonra paraşüt bizi taşımaya başlar ve birkaç adım daha attığımızda kalkışımız gerçekleşir. Aslında, uçuşunuz adımlar atılırken başlar. Uçuşunuz hiçbir zaman bir uçurumdan sıçramak gibi bir şey değildir.
+    - question: UÇUŞ SIRASINDA PARASÜT KORDONLARI KOPARSA NE OLUR?
+      answer: Paraşüt kordonları kolayca kırılabilir malzemelerden yapılmaz. Bu kordonlar için tamamen [Kevlar](https://tr.wikipedia.org/wiki/Kevlar) lifleri kullanılmaktadır. Çünkü paraşütler her 2-2.5 yılda bir yenilenmektedir,fakat bu tür olaylar nadiren rastlananılmaktadır.
+    - question: YEDEK KURTARMA PARAŞÜTÜ VAR MI? PARASÜT KİME AİTTİR?
+      answer: Herhangi bir pilot istisnasız olarak yanında bir kurtarma (yedek) paraşütü taşır. İhtiyacı olduğunda pilot kararını verdikten sonra bir kurtarma paraşütünü açmak için atar. Bir kurtarma paraşütü, hem pilota hem de yolcuya güvenli bir şekilde yere inmesine yardımcı olur.
+    - question: YAMAÇ PARAŞÜTÜ KAZALARI NASIL GERÇEKLEŞİR? NE ZAMAN GERÇEKLEŞİRLER? KİM SEBEP OLUR?
+      answer: Kazaların başlıca nedenleri <u>deneyimsizlik ve sabırsızlıktır</u>. Yamaç paraşütü, düşünüldüğü kadar tehlikeli değildir. Aslında, son derece güvenli sporlardan biridir. Genellikle bir kaza, kalkış sırasında veya hemen kalkıştan sonra meydana gelebilir. En çok kazalar, deneyimsiz tek başına pilotlar tarafından meydana gelir. Tandem yamaç paraşütünün kaza riski istisnai derecede düşüktür.
+    - question: İLK UÇUŞUMDAN BİRAZ KORKUYORUM. NE YAPMALIYIM?
+      answer: İlk önce lütfen sakin olun ve rahatlayın! Uluslararası lisanslı profesyonel bir pilotla bu deneyimi yaşayacağınızı unutmayın. Onlar bu işi yaparak hayatlarını kazanıyorlar ve sizi riske atmayacakları gibi kendilerini de asla riske atmıyorlar. Güvenliğinizin tamamen sağlandığını garanti ediyoruz. Sadece uçuşunuzdan önce alkol almamanızı özenle rica ediyoruz sonrasında istediğiniz kadar keyfini çıkarabilirsiniz.
+    - question: UÇUŞ İÇİN NE GİYMELİYİM?
+      answer: Mevsime bağlı olarak değişse de genel olarak Babadağ , Ölüdeniz'den çok daha serindir. Yaz aylarında, bir tişört, şort, güneş gözlüğü ve spor ayakkabı bu aktivite için yeterli olacaktır. Hava daha serinse, pilotunuz size ceket temin edecektir. Spor ayakkabınız yoksa, size ödünç verebileceğimiz ayakkabılarımız mevcut. Spor ayakkabı olmadan uçmanıza izin verilmez. Ayrıca,konforunuz ve video & fotoğraflarınız için yanınızda güneş gözlüğü getirmeyi unutmayın.
+    - question: UÇUŞA GİDERKEN YANIMA NE GETİRMEM GEREKMİYOR?
+      answer: Uçuşa giderken, güvenliğiniz ve diğerlerinin güvenliği için cep telefonu, bozuk para, bıçak, el çantası, kişisel aksiyon/dijital kameraları yanınızda taşımanız yasaktır. Bu kişisel eşyaları uçuşunuzdan önce ofiste veya dağda pilotunuza vermeniz gerekmektedir. Eşyalarınız uçuşunuzdan hemen sonra size geri verilecektir.
+    - question: HİÇ UÇMADIM, İLK UÇUŞUM OLACAK. KALKIŞ NOKTASINDA NE YAPMALIYIM VE KALKIŞTA NASIL DAVRANMALIYIM?
+      answer: Daha önce kaç kez uçtuğunuzun hiçbir önemi yoktur. Her şey kolay ve basittir. Pilotunuz uçuştan önce size kısa bilgiler verebilir ve sonra yapmanız gereken şey, birkaç adım (hava koşullarına göre birkaç adım) ileriye doğru yürümek ve koşmaktan ibarettir!
+    - question: GÖKYÜZÜNDE NE KADAR KALABİLİRİM?
+      answer: Uçuş süresi ideal olarak Babadağ'dan kalkıştan sonra 25-30 dakika olacaktır. Ancak, hava ve rüzgar koşullarına ve isteğinize göre, uçuş süresi kısaltılabilir veya uzatılabilir. Minimum ve maksimum uçuş süreleri sırasıyla 25 dakika ve 40 dakikadır (Bu uçuş süreleri, hava koşullarına ve kalkış noktasının konumuna bağlı olarak değişebilir).
+    - question: UÇUŞ İÇİN YAŞ, BOY VE KİLO SINIRLAMASI VAR MI?
+      answer: 3 yaş ve üzeri herkes uçabilir. Maksimum ağırlıklar erkekler için 110 kg ve kadınlar için 95 kg'dır. Güvenlik açısından iniş ve kalkışta biraz çeviklik, bağlantılarda rahatlık ve ekipmanların ağırlık limiti göze alınarak bu kurallar belirlenmiştir.  Ancak hala uçma şansınız var, ancak kalkış sırasında hava koşullarına bakmak için rezervasyon yapmadan önce bizimle iletişime geçmeniz gerekecektir.
+    - question: UÇUŞA GİTTİM, ANCAK HAVA KOŞULLARI NEDENİYLE UÇAMADIM. ŞİMDİ NE OLACAK?
+      answer: Böyle bir durumda, uçuşunuz yeniden planlanabilir veya koşulsuz tam bir geri ödeme alırsınız.
+    - question: UÇUŞA GİTTİM, AMA KORKUNÇ DUYGULAR HİSSETTİM. EĞER UÇUŞTAN VAZGEÇERSEM NE OLUR?
+      answer: Tecrübelerimize göre, müşterilerimiz uçuşlarını %0.05 oranında terk ediyorlar. İptal, planlanan uçuş zamanından 24 saat önce yapıldığında tam bir geri ödeme alabilirsiniz. İptal, zamanından sonra kişisel nedenlerle yapılırsa, geri ödeme alamazsınız. Uçuşun, hava koşulları veya diğer faktörler nedeniyle iptal edilmesi durumunda, geri ödeme yapılacaktır.
+    - question: SİGORTA KAPSAMINDA MI?
+      answer: Şirketimiz aracılığıyla satın alınan tüm turlar sigorta kapsamındadır.
+    - question: NEREYE İNİŞ YAPACAĞIM?
+      answer: Ölüdeniz'deki Belcekiz plajına güvenli ve konforlu bir şekilde iniş yapacaksınız.
+    - question: KALKIŞ NOKTASINA ULAŞMAK NE KADAR SÜRER?
+      answer: 30-35 dakika sürer.
+    - question: KALKIŞ NOKTASINDA HANGİ NOKTA KULLANILACAK?
+      answer: Dağın zirvesine vardığınızda, pilotunuz rüzgar koşullarına göre hangi kalkış noktasını kullanacağına karar verir. Bunlar; 1200mt, 1700mt, 1800mt, 1900mt ve 1965mt kalkış noktalarıdır.
+    - question: ZARARLI RÜZGAR GELİRSE NE OLUR?
+      answer: Zararlı rüzgarlar gibi bir şey yoktur, ancak hava türbülansı vardır. Hava türbülansı durumunda, kalkış gerçekleştirilmez. Her zaman kalkış ve iniş karşılayan rüzgar ile gerçekleştirilmelidir. Her durumda, uçuşunuz asla gerçekleştirilmez çünkü gerçekten uçulamaz koşullarda gerçekleştirilmesi mümkün değildir. Kalkıştan sonra, rüzgarın herhangi bir yönden gelmesi güvenlik için önemli değildir.
+- title: Dalış
   faqs:
-    - question: What about scalability and portability
-      answer: Whether you’re building a personal blog or a large-scale enterprise website, Hugobricks scales effortlessly. Its ability to handle thousands of pages with consistent speed and efficiency makes it an ideal choice for projects of any size. Moreover, Hugobricks generates static websites that can be hosted on any web server or content delivery network (CDN) without any specific server requirements, ensuring portability and easy deployment.
-    - question: How easy is it to set up?
-      answer: Hugobricks offers a straightforward and hassle-free setup process. It comes with pre-built binaries for various operating systems, making it accessible to developers across different platforms. Additionally, Hugobricks has a user-friendly command-line interface (CLI) that allows you to create and manage your site effortlessly. Its simplicity makes it a great choice for both experienced developers and beginners alike.
-    - question: How flexible is the offered architecture?
-      answer: Hugobricks provides a flexible architecture that empowers developers to create websites tailored to their specific needs. With its powerful templating system, you can easily customize the look and feel of your site. Hugobricks supports a wide range of themes, allowing you to choose from a vast collection or create your own. Furthermore, its extensive plugin ecosystem enables you to extend its functionality and add features seamlessly.
-- title: Markdown content and SEO
+    - question: Dalışa dalmasam bile katılabilir miyim?
+      answer: Evet, katılabilirsiniz. Ancak tekne turu için ödeme yapmanız gerekecek.
+    - question: Yüzmeyi bilmiyorum, yine de gelebilir miyim?
+      answer: Evet! Sualtı dalışı yapmak yüzme bilmeyenler için daha kolaydır.
+    - question: Sualtında hangi tür hayvanlar var?
+      answer: Denizanaları, yengeçler, ahtapotlar, kaplumbağalar, deniz hıyarları gibi çeşitli türler bulunmaktadır!
+    - question: Ortalama olarak su altında ne kadar süre kalacağız?
+      answer: Her dalış seansı yaklaşık olarak 20 - 30 dakika sürer.
+- title: Binicilik
   faqs:
-    - question: What about Markdown and content management?
-      answer: Content creation and management are made convenient with Hugobricks. It supports Markdown, a lightweight markup language that simplifies the process of writing content-rich web pages. Markdown’s simplicity and readability make it a favorite among writers and developers alike. Hugobricks’s content organization system allows you to easily structure your content, making it effortless to manage and update your website’s information.
-    - question: What about SEO-friendliness?
-      answer:  Hugobricks is designed with search engine optimization (SEO) in mind. It generates clean HTML markup, adhering to best practices for search engine discoverability. This helps your site rank higher in search engine results, increasing its visibility to potential visitors. 
-    - question: What about hugobricks security?
-      answer: Additionally, Hugobricks’s static nature eliminates the need for databases or complex server configurations, making it inherently more secure than dynamic content management systems.
+    - question: Bir atı sürmek kolay mıdır?
+      answer: Bir atı sürmek bazı insanlar için oldukça kolay olabilirken, diğerleri için daha zor olabilir; bu, bireyin fiziksel uygunluğu, koordinasyonu ve özgüven düzeyleri gibi çeşitli faktörlere bağlıdır.
+    - question: Bir atı sürmek için deneyime ihtiyacım var mı?
+      answer: Hayır, bir atı sürmek için önceden deneyime ihtiyacınız yoktur. Birçok insan biniciliğe başlangıç seviyesinde başlar ve deneyim kazandıkça öğrenir.
+    - question: Bir atı nasıl sürmeyi öğrenirim?
+      answer: Binicilik öğrenmek için, eğitmenimiz sizi ata binme, denge ve at ile iletişim gibi temel konularda eğitecek. Düzenli olarak pratik yapın, sabırlı olun ve bu harika hayvanlarla ve doğayla bağ kurma sürecinin tadını çıkarın.

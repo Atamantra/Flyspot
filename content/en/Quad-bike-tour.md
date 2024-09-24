@@ -5,19 +5,25 @@ title: "Quadbike tour In Fethiye, Muğla"
 meta_title: "ATV Tour At Fethiye, Mugla"
 description: "Learn More Details About Quad Bike Tour's At Turkey, Muğla, Fethiye"
 date: 2024-02-21T05:00:00Z
-image: "/uploads/Background/Quad.jpeg"
+image: "/uploads/Background/quad.jpeg"
 categories: ["Tours", "Fethiye", "Quadbike"]
 author: "Atamantra"
 tags: ["QuadBike", "Fethiye", "Tours"]
 draft: false
-language: "English"
+language: "en"
 ---
 
 {{< brick_title2 >}}
 # ‎
-![Quadbike Tour At Fethiye](/uploads/atv/8.jpeg)
-# Kayakoy ATV Safari
 # ‎
+
+![Quadbike Tour At Fethiye](/uploads/atv/8.jpeg)
+## ATV Safari Tour
+#### Kayaköy, Fethiye 📍
+#
+##### 35$ Solo - 50$ Double
+{{< button "Book Now" "/get-started/" >}}
+‎
 {{< /brick_title2 >}}
 {{< tabs >}}
 
@@ -28,51 +34,50 @@ language: "English"
 {{< brick_title >}}
 {{< video "/uploads/atv/atv2.mp4" >}}
 {{< /brick_title >}}
+---
+
 {{< /tabs >}}
 {{< brick_title2 >}}
+{{< gallery dir="/uploads/atv/" >}}
+
 ## Fethiye Atv Safari
-# ‎
-![Fethiye Rafting ](/uploads/atv/2.jpeg)
-#### Wouldn't it be great to embark on an adventurous journey? In the heat of summer in Fethiye, a pleasant trip awaits you on an open-top ATV to see remarkable locations. 
+### Wouldn't it be great to join this adventurous journey? In the forests you will enjoy the power of the Quad Bike, a pleasant trip awaits you on an open-top ATV to see remarkable locations. 
 # ‎
 {{< /brick_title2 >}}
 
-{{< brick_title2 >}}
-#### You can choose to ride solo on an ATV or opt for one ATV for two people. Your transfer to the activity, insurance, fuel, and an instructor who will provide you with docs and guidance are included. 
-![Fethiye Rafting ](/uploads/atv/4.jpeg)
-{{< /brick_title2 >}}
 
 {{< brick_title2 >}}
-# ‎
-![Fethiye Rafting ](/uploads/atv/1.jpeg)
- #### ATVs are automatic and quite easy to use, so they don't require a special license!
-# ‎
-{{< /brick_title2 >}}
-{{< brick_title2 >}}
-# ‎
-![Fethiye Rafting ](/uploads/atv/7.jpeg)
-#### This tour is mostly off-road, meaning you'll be traversing through forests, encountering breathtaking views, and plenty of mud along the way. Therefore, we recommend choosing your clothing accordingly.
-# ‎
-{{< /brick_title2 >}}
-{{< brick_title2 >}}
-# ‎
-![Fethiye Rafting ](/uploads/atv/6.jpeg)
-#### The photos taken during the tour will be shown to you after the activity, and you can purchase them if you wish.
-# ‎
-{{< /brick_title2 >}}
-{{< brick_title2 >}}
-# ‎
-![Fethiye Rafting ](/uploads/atv/5.jpeg)
-#### You can join the ATV tour at three different times of the day: morning, noon, and evening.
-# ‎
-{{< /brick_title2 >}}
-{{< brick_title2 >}}
-### THOSE WHO CAN NOT APPLY FOR THE TOUR:
+## Solo Or Duo Ride Option
+### You can choose to ride solo on an ATV or opt for one ATV for two people. Your transfer to the activity, insurance, fuel, and an instructor who will provide you with docs and guidance are included. 
 
-##### Are under 18.
-##### Are an Asthmatic.
-##### Have Circulatory Conditions.
-##### Is Pregnant
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+# ‎
+## Easy To Use! No Licence Required.
+### ATV's are automatic and quite easy to use, so they don't require a special license!
+# ‎
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+## Offroad Adventure!
+### This tour is mostly off-road, meaning you'll be traversing through forests, encountering breathtaking views, and plenty of mud along the way. Therefore, we recommend choosing your clothing accordingly.
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+## Footage Will Be Taken
+### The photos taken during the tour will be shown to you after the activity, and you can purchase them if you wish.
+# ‎
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+## 3 Different Time Options
+### You can join the ATV tour at three different times of the day: morning, noon, and evening.
+# ‎
+{{< /brick_title2 >}}
+{{< brick_title2 >}}
+## THOSE WHO CAN NOT APPLY FOR THE TOUR:
+
+### Are under 18.
+### Are an Asthmatic.
+### Have Circulatory Conditions.
+### Is Pregnant
 
 {{< /brick_title2 >}}
 
@@ -150,7 +155,7 @@ Interested about renting ATV'S at Fethiye. We Will Get Your Covered. Call Us For
 
 ![ATV](/uploads/atv/Buggy.jpeg)
 
-Embark on an exhilarating 4WD buggy tour in Oludeniz's countryside for an unforgettable adventure. Test your driving skills on a designated practice track before embarking on a thrilling tour lasting up to 2 hours. Follow our experienced guide through stunning pine forest trails, with a refreshing beach break included for swimming and sunbathing. Book your buggy tour now and experience the thrill of off-road exploration in Oludeniz!
+Join on with our 4WD buggy tour in Oludeniz's countryside for an unforgettable adventure. Test your driving skills on a designated practice track before going on a thrilling tour lasting up to 2 hours. Follow our experienced guide through stunning pine forest trails, with a refreshing beach break included for swimming and sunbathing. Book your buggy tour now and experience the thrill of off-road exploration in Oludeniz!
 
 ### _$_**85**/Per Person
 

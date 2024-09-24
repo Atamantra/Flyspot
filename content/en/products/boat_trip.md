@@ -10,10 +10,10 @@ variants:
   price: 35
   sku: adult
 - name: Sunset Tour Adult's Only = ($50)
-  price: 35
+  price: 50
   sku: Sunset
 - name: Children Lower Than 10 Y.O. = ($25)
-  price: 20
+  price: 25
   sku: children
 weight: 1
 ---

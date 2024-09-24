@@ -3,13 +3,13 @@
     from = "/*"
     to = "/tr/:splat"
     status = 301
-    force = false
+    force = true
     conditions = {language = ["tr"]}
 
 # Redirect users with English language preference
 [[redirects]]
     from = "/*"
-    to = "/en/:splat"
+    to = ":splat"
     status = 301
     force = false
     conditions = {language = ["en"]}

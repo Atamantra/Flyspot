@@ -1,24 +1,23 @@
 ---
 title: tours
-url: /Tours/
+url: /tours/
 ---
 
 {{< brick_title2 >}}
-#### 📍 Turkey, Mugla, Fethiye, Ölüdeniz
-# Check Our Tours
+# ‎ 
+#### 📍 Activities Located At Fethiye, Ölüdeniz & Dalyan 
+# ‎ 
 
-![ People Swiming at Blue Lagoon Ölüdeniz](/uploads/Oludeniz/bluelagoonoludeniz.jpg)
-{{< button "Plan Now" "/get-started/" >}}
+# Check Out All Of Our Tours
+# ‎ 
 
+![ People Swiming at Blue Lagoon Ölüdeniz](/uploads/branding/paragliding_hamdi-yaman.jpeg)
+# ‎ 
 
 
 {{< /brick_title2 >}}
 
-{{< brick_image >}}
-# <u>Book Now Pay Later</u>
-### We Handpicked The Best Operators To Provide The Best Experience With The Most Most Competitive Prices On The Market.
-![svg](/uploads/illustrations/cuate/dalis2.svg)
-{{< /brick_image >}}
+
 
 {{< brick_title2 >}}
 
@@ -29,7 +28,8 @@ url: /Tours/
 
 #### With carefully planned 30 to 60-minute breaks at each stop, you can comfortably travel and explore every remarkable spot. Join us for an Ölüdeniz boat tour adventure filled with unforgettable moments!
 
-{{< button "Read More" "/oludenizboat/" >}}
+{{< button2 "Details For Oludeniz Boat Trip" "/oludenizboat/" >}}
+{{< button "Book Now" "/oludenizboat/booking/" >}}
 
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
@@ -40,7 +40,7 @@ url: /Tours/
 
 #### This tour is most loved and popular among various Fethiye boat cruises. During the tour, you can spend a great day with your family, friends and loved ones. Take a closer look on the points we visit during the tour
 
-{{< button "Read More" "/12Island/" >}}
+{{< button "Details For 12 Island Boat Trip" "/12Island/" >}}
 
 {{< /brick_title2 >}}
 
@@ -53,7 +53,7 @@ url: /Tours/
 
 #### Humans have been together with horses and adored them since we came into the world. Horses are already our irreplaceable, reliable friends. Horse riding is one of the best activities you can try while staying in Fethiye. 
 
-{{< button "Read More" "/horseriding/" >}}
+{{< button "Kayakoy Horse Riding" "/horseriding/" >}}
 
 {{< /brick_title2 >}}
 
@@ -61,12 +61,12 @@ url: /Tours/
 #### 📍 Fethiye, Ölüdeniz or Butterfly Valley
 # Diving
 ## <u> 1900 TL</u>
-![Fethiye Diving Center](/uploads/Diving/scuba.jpg)
+![Fethiye Diving Center](/uploads/Diving/scubadiving.jpeg)
 
 
 #### Would you like to spend your holiday having an adventurous time diving in the beautiful blue bays of Fethiye? Whether you're an experienced diver or a complete beginner, we have everything you need.
 
-{{< button "Read More" "/scubadiving/" >}}
+{{< button "Scuba Diving At Fethiye, Oludeniz" "/scubadiving/" >}}
 
 {{< /brick_title2 >}}
 
@@ -78,7 +78,7 @@ url: /Tours/
 
 #### Discover the ancient Royal Tombs of Kaunos. Enjoy a peaceful boat ride down the river with stunning views. Afterwards, head to İztuzu Beach. Relax on the sandy beach and swim in the clear water. Keep an eye out for the special sea turtles living there. Join us for an amazing adventure!
 
-{{< button "Read More" "/dalyan/" >}}
+{{< button "Dalyan Tour Details" "/dalyan/" >}}
 
 {{< /brick_title2 >}}
 
@@ -90,7 +90,7 @@ url: /Tours/
 
 #### For the Fethiye Jeep Safari, We offer our precious customer various services at very reasonable cost. We visit 4 wonderful spots for the Fethiye Jeep Safari. Since you sometimes come into contact with water we including the mad bath during the tour. 
 
-{{< button "Read More" "/jeepsafari/" >}}
+{{< button "Fethiye Jeep Safari Details" "/jeepsafari/" >}}
 
 {{< /brick_title2 >}}
 
@@ -102,7 +102,7 @@ url: /Tours/
 
 #### The place where you do Fethiye rafting is the Dalaman river. After a short docs given by instructor, you feel yourself ready for the Fethiye rafting. During the joyful activity starting after the docs, you enjoy the feeling of the cold water splashed onto your face, constantly and totally controlled by the experienced instructor.
 
-{{< button "Read More" "/rafting/" >}}
+{{< button "Dalaman Rafting Details" "/rafting/" >}}
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
 #### 📍 Kayaköy, Muğla
@@ -120,16 +120,29 @@ url: /Tours/
 ## <u> 4850 TL </u>
 ![Paragliding At Turkey](/uploads/Paragliding/pg360.jpg)
 #### You start the tour with our professional guide from the Kaya village to Gemiler bay following forest paths. Feeling the wind all over your body going through the forest on Quad Bike and swimming in the crystal water of the beautiful bay. Don’t procrastinate, hit the gas!
-{{< button "Read More" "/paragliding/" >}}
+{{< button "Details For Paragliding At Fethiye, Oludeniz, Turkey" "/paragliding/" >}}
 {{< /brick_title2 >}}
 {{< brick_title2 >}}
 #### 📍 Dalyan, Iztuzu Beach
 # Microlight
 ## <u> 4500 TL </u>
 #### Imagine one of the most amazing experiences ever: flying over ancient tombs in Kaunos, spotting turtles at Iztuzu Beach, and seeing Dalyan from high above. Don't miss out on this incredible adventure!
-{{< button "Learn More" "/microlight/" >}}
+{{< button "Dalyan Microlight Details" "/microlight/" >}}
 
 ![](/uploads/photos/pic.webp)
+
+
+
+{{< /brick_title2 >}}
+
+{{< brick_title2 >}}
+#### 📍 Dalyan, Iztuzu Beach
+# Watersports
+## <u> Jetski, Sea Bob, Parasailing And More! </u>
+#### Check Out The Amazing Water Activities We Offer At Ölüdeniz Beach Come Join Us Under Our Umbrella!
+{{< button "Watersports At Ölüdeniz" "/watersports/" >}}
+
+![](/uploads/watersports/jetski2.jpeg)
 
 
 

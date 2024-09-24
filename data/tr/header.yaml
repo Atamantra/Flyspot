@@ -13,37 +13,39 @@ menuitems:
   - title: Hakkımızda
     link: /hakkimizda/
   - title: İletişim
-    link: /tr/bize-ulasin/
+    link: /iletisim/
   - title: Turlar
-    link: /Tours/
+    link: /turlar/
     items: 
       - title: Yamaç Paraşütü
-        link: /paragliding/
-      - title: At Binme
-        link: /horseriding/
-      - title: Dalış
-        link: /scubadiving/cs
-      - title: Dalyan Turu
-        link: /dalyan/
-      - title: 12 Adalar Tekne Turu
-        link: /12Island/
+        link: /yamacparasutu/
       - title: Ölüdeniz Tekne Turu
-        link: /oludenizboat/
+        link: /oludeniztekneturu/
+      - title: 12 Adalar Tekne Turu
+        link: /12ada/
       - title: Jeep Safari
-        link: /jeepsafari/
+        link: /jeepsafarituru/
+      - title: At Binme
+        link: /atbinme/
+      - title: Dalış
+        link: /dalis/
+      - title: Dalyan Turu
+        link: /dalyanturu/
       - title: Rafting
-        link: /rafting/
+        link: /tr/rafting/
       - title: ATV Safari
-        link: /atv/
+        link: /tr/atv/
       - title: Dalyan Microlight
-        link: /microlight/
+        link: /tr/microlight/
+      - title: Su Sporları
+        link: /susporlari/
   - title: Eğitimler
-    link: /edu/
+    link: /egitimler/
     items:
       - title: Yamaç Paraşütü
-        link: /edu/paragliding
-      - title: Serbest Düşüş
-        link: /edu/skydiving
+        link: /egitimler/paragliding/
+      - title: Serbest Atlama
+        link: /courses/skydiving-egitimi/
       - title: Paraşüt & Paramotor
         link: /ngparamotor/
 cta:

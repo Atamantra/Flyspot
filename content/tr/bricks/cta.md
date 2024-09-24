@@ -1,9 +1,9 @@
 ---
-title: cta
+title: başla
 ---
-## Get started with Flyspot today!
+## Bugün Flyspot ile başlayın!
 
-"Discover the convenience of traveling with FlySpot! We're here to assist you throughout your holiday with just a click. Feel free to ask any questions by reaching out to us via the link below. Your hassle-free journey is just a message away!"
-{{< button2 "Get started now" "/get-started/" >}}
+"FlySpot ile seyahat etmenin kolaylığını keşfedin! Sizin için sadece bir tıklama uzaklığındayız ve tatiliniz boyunca size yardımcı olmak için buradayız. Aşağıdaki bağlantıyı kullanarak bize istediğiniz herhangi bir soruyu sormaktan çekinmeyin. Sorunsuz yolculuğunuz bir mesaj uzağınızda!"
+{{< button2 "Şimdi başla" "/tr/get-started/" >}}
 
-![](/uploads/illustrations/cuate/Trip-pana.svg)
+![](/uploads/illustrations/cuate/travellers.svg)

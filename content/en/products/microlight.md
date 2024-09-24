@@ -6,10 +6,10 @@ images:
 - image:
 variant_type: 
 variants:
-- name: Gyrocopter - Mid Day - (12-17 min)
+- name: Gyrocopter - Mid Day - (12-17 min) 150$
   price: 150
   sku: gyrocopter
-- name: Microlight - Morning or Sunset - (17-20 min)
+- name: Microlight - Morning or Sunset - (17-20 min) 150$s
   price: 150
   sku: Microlight
 weight: 1

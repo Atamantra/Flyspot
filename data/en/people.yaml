@@ -1,21 +1,29 @@
-- name: Atamantra
-  function: Ataberk Doganli (Founder)
+- name: Ataberk Doganli
+  function: Tandem Pilot, Founder
   image: /uploads/photos/avatars/ata.JPG
-  description: Having worked in various roles and gained experience across multiple tours, I embarked on a journey from groundcrew to becoming a pilot, founding Flyspot to fulfill my dreams. With over 2000 paragliding flights across diverse locations, I'm deeply passionate about acrobatics in the sky.
+  description: Having worked in various roles and gained experience across multiple tours, I started my journey from groundcrew to becoming a pilot, founding Flyspot to fulfill my dreams. With over 2000 paragliding flights across diverse locations, I'm deeply passionate about acrobatics in the sky.
   phone: +905339230963
 - name: Melek Aladağ
   function: Manager, Co-founder
   description: Melek started her career as a Public Relations graduate. She served as an operations and sales manager at Pronet Security and Jeep Safari companies. In addition, she successfully took on responsibilities in Airborne operations. Moreover, she is known as a co-founder of Flyspot.
   image: /uploads/photos/avatars/melek.jpg
   phone: +90 535 022 32 87
+- name: Hasan
+  function: Skydiving Instructor
+  description: graduated from Marmara University with a degree in Physical Education in 2004. He has an extensive background in aerial sports, starting with skydiving in 2001. In 2008, he ventured into tandem paragliding and base jumping. Most recently, in 2023, he began tandem base jumping. Dökmetepelioğlu has completed over 1,000 freefall jumps and has approximately 13,000-14,000 paragliding flights under his belt.
+  image: /uploads/photos/avatars/hasan.jpg
+- name: Osman
+  function: Tandem Pilot
+  image: /uploads/photos/avatars/osm.jpeg
+  description: Osman is our most experienced pilot. We don't know what we would do without him. He has been paragliding for many years and yet manages to make everyone smile at the end of the day. Osman is a remarkable guy with great humor; you will never feel bored in the sky with him.
+- name: Hüseyin
+  function: Tandem Pilot
+  image: /uploads/photos/avatars/hus.jpeg
+  description: Hüseyin is a well-known local pilot who has served as the president of the pilot corporation for all 450 pilots working locally. With a strong safety reputation and a meticulous approach due to his extensive experience, he never rushes into flights and ensures everything is safe and sound before takeoff.
 - name: Doğa Nil 
   function: Doga Nil Doganli
   image: /uploads/photos/doga.webp
   description: Studying Sociology and Archaeology at Istanbul University provided me with a solid academic foundation. I've also been fortunate to work with esteemed companies in Ölüdeniz, such as Kidrak Liberty Likya, Escape, Ölüdeniz Water Sports, Hanuman, Airborne, and this year, Dragon Paragliding. Each experience has enriched my journey and contributed significantly to my growth in the field of adventure sports and also I am a beginner pilot.
-- name: Tuna Eşol
-  function: Pilot / Tunafish
-  image: /uploads/photos/avatars/twona.jpg/
-  description: I'm TunaFish! I was born on January 7, 1998, in the district of Kemer in Antalya. After spending much of my life at sea, I started paragliding flights in 2015. Currently, I'm conducting flights in various disciplines and enjoying touching the sky together with you.
 - name: Extreme-G
   function: Black And White Wings 🦅
   image: /uploads/photos/avatars/extremeg.jpeg
@@ -27,14 +35,12 @@
   email: 
   phone: +90 531 086 87 57
   instagram: https://www.instagram.com/ogulcangk/
-  website:
 - name: RedbullXC Bariş
   function: Bariş Çelik
   image: /uploads/photos/avatars/3.jpeg
   description: With 12 years of experience in paragliding, I've trained at universities and won championships. I've also explored mountaineering, scuba diving, and cycling, holding certifications as an instructor in each. Passionate about sharing fun experiences, I co-founded Extreme-G flight school in 2021. Let's soar together!
   email: bariscelik881@gmail.com
   phone: +90 506 728 89 40
-  instagram: https://www.linkedin.com/in/joost-van-der-schee-4b26682/
   website: https://barisc.com.tr/
 - name: Şahin²
   function: Şahin Şahin

@@ -13,4 +13,3 @@ Butterfly Valley, which mesmerizes us with its natural beauty, is one of the pla
 Being under protection as a first-degree natural site, Butterfly Valley is a place you must visit and, if the weather is suitable for paragliding, your pilot can show you a spot in the air during your [paragliding](/paragliding) flight.
 
 ##### After following our recommended activities, it's best to create your itinerary in a unique way.
-```

@@ -1,27 +1,35 @@
-action: /form.php
+action: https://formspree.io/f/mbjnaaaz
 placeholders: false
 fields: 
 - name: title
   input_type: html
-  placeholder: <h3>Kendinizi bize biraz anlatın</h3>
+  placeholder: <h3>Nasıl Yardımcı Olabiliriz?</h3>
   required: true
-- name: name
+- name: name *
   input_type: text
-  placeholder: İsminiz
+  placeholder: Tam Adınız *
+  required: true
+- name: Phone *
+  input_type: tel
+  placeholder: Telefon Numarası *
   required: true
 - name: email
   input_type: email
-  placeholder: Email adresiniz
+  placeholder: E-Posta Adresi *
   required: true
-- name: message
+- name: message 
   input_type: textarea
-  placeholder: Mesajınız
+  placeholder: Daha Fazla Bilgi Verin.
   required: false
 - name: terms
   input_type: checkbox
-  placeholder: Şartları Ve Koşulları Kabul Ediyorum
+  placeholder: Şartları ve Koşulları Kabul Ediyorum *
   required: true
 - name: submit
   input_type: submit
   placeholder: Formu Gönder
+  required: true
+- name: text
+  input_type: html
+  placeholder: <h5> Gerekli Alanlar * </h5>
   required: true

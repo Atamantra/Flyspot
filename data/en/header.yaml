@@ -15,39 +15,41 @@ menuitems:
   - title: Contact
     link: /contact/
   - title: Tours
-    link: /Tours/
+    link: /tours/
     items: 
       - title: Paragliding
         link: /paragliding/
+      - title: Oludeniz Boat Trip
+        link: /oludenizboat/
+      - title: 12 Island Boat Trip
+        link: /12Island/
+      - title: Jeep Safari
+        link: /jeepsafari/
       - title: Horse Riding
         link: /horseriding/
       - title: Scuba Diving
         link: /scubadiving/
       - title: Dalyan Tour
         link: /dalyan/
-      - title: 12 Island Boat Trip
-        link: /12Island/
-      - title: Oludeniz Boat Trip
-        link: /oludenizboat/
-      - title: Jeep Safari
-        link: /jeepsafari/
       - title: Rafting
         link: /rafting/
       - title: ATV Safari
         link: /atv/
       - title: Dalyan Microlight
         link: /microlight/
+      - title: Water Sports
+        link: /watersports/
   - title: Educations
     link: /edu/
     items:
       - title: Paragliding
-        link: /edu/paragliding
+        link: /courses/paragliding
       - title: Skydiving
-        link: /edu/skydiving
+        link: /courses/skydiving
       - title: Paratrike & Paramotor
         link: /ngparamotor/
 cta:
   active: true
-  title: Get started
+  title: Book A Tour Now!
   link: /get-started/
   

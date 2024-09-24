@@ -1,7 +1,7 @@
 ---
 title: "Paragliding Training P2-P3-P4-P5-SIV"
 description: "Learn More Details About Paragliding Education At Turkey, Fethiye, Oludeniz"
-url: /edu/paragliding
+url: /courses/paragliding
 categories: ["education", "turkey","paragliding"]
 author: "Atamantra"
 tags: ["Paragliding", "ölüdeniz", "eudcation"]
@@ -10,11 +10,9 @@ language: "English"
 ---
 
 {{< brick_title2 >}}
-
-## Solo Paragliding Educations
 # ‎
-
-
+# ‎
+## Solo Paragliding Educations
 ![](/uploads/Paragliding/solopilot.jpg)
 
 {{< /brick_title2 >}}
@@ -195,14 +193,6 @@ Explore advanced techniques and full emergency scenarios at Ölüdeniz, where ex
 
 Prepare for an intensive journey and discover the freedom of flight high above the clouds!
 {{< /brick_wide >}}
----
-## P5
-
----
-## SIV
-
---- 
-## Acrobatics
 
 
 {{< /tabs >}}

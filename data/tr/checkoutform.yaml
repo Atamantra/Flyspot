@@ -1,0 +1,47 @@
+action: https://formspree.io/f/xwkgnnbq
+placeholders: false
+fields:
+  - name: title
+    input_type: html
+    placeholder: "<h3>Ne yapmak istiyorsunuz?</h3>"
+    required: 
+  - name: name
+    input_type: text
+    placeholder: Tam Adınız
+    required: true
+  - name: Phone
+    input_type: tel
+    placeholder: Telefon Numarası (isteğe bağlı)
+    required: true
+  - name: email
+    input_type: email
+    placeholder: E-posta Adresi
+    required: true
+  - name: date
+    input_type: date
+    placeholder: Seyahat Tarihi
+    required: 
+  - name: Total Number Of People
+    input_type: Number
+    placeholder: Kişi Sayısı
+    required: true
+  - name: title
+    input_type: html
+    placeholder: "<h3>Katılmak istediğiniz turu belirtiniz</h3>"
+    required: true
+  - name: message 
+    input_type: textarea
+    placeholder: Deneyim hakkında detaylar
+    required: false
+  - name: terms
+    input_type: checkbox
+    placeholder: Şartları ve koşulları kabul ediyorum *
+    required: true
+  - name: submit
+    input_type: submit
+    placeholder: Formu Gönder
+    required: 
+  - name: text
+    input_type: html
+    placeholder: "<h5> * Zorunlu Alanlar </h5>"
+    required: 

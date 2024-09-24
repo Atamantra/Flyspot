@@ -57,5 +57,3 @@ Daily diving involves leaving around 9-10 in the morning and returning around 4-
 **When planning your day on holiday and if you're not in a hurry, and if it's your first dive or first dive in Fethiye, daily diving is the best choice. Who wouldn't want to spend the whole day going from cove to cove diving on a boat? Your evening meal and the sleep you'll have after that will be one of the sweetest.🤿**
 
 ✍🏻Doğa Nil Doğanlı
-
-![To the Blue Cave](/uploads/illustrations/cuate/dalis2.svg)

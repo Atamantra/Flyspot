@@ -1,11 +1,14 @@
 ---
 title: tours
+description: "Learn more about 12 Island Boat trip At Fethiye, Turkey. Book With One Of The Best Boats. Lunch Included."
 url: /12Island/
 ---
 {{< brick_title2 >}}
-#
+# ‎ 
+## 12 Island Boat Trip
+#### 📍 Fethiye Harbor
 ![12 Island Boat Trip](/uploads/photos/12Island.jpg)
-#
+# ‎ 
 {{< /brick_title2 >}}
 {{< tabs >}}
 

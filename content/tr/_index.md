@@ -1,165 +1,134 @@
 ---
-title: Anasayfa
+title: Ana Sayfa
 ---
 {{< brick_title2 >}}
-# Fethiye Yamaç Paraşütü
+# ‎ 
+# ‎ 
+# ‎ 
 
- #### Eşi Benzeri Olmayan Bir Deneyime Hazır Olun!
+# ‎ 
 
-#### *Son teknoloji Aksiyon kameraları ile çekilen harika 360° fotoğraflar ve videolar*
+##### 📍 Babadağ, Fethiye, [Muğla](https://maps.app.goo.gl/nedsoQVBUxQnbh638)
+# Ölüdeniz Plajı Üzerinde Tandem Yamaç Paraşütü
 
+#### **Babadağ**'ın üzerinde uçarak, **Ölüdeniz** ve **Mavi Lagün**'ün muhteşem manzaralarının keyfini çıkarın. En son 360 derece aksiyon kameraları ile çekilmiş epik fotoğraflar ve videolar için yükseltmeyi seçin. Maceramız TripAdvisor'dan onaylı kalite rozeti taşır. Bütçe dostu seyahat edenler için mükemmel, ancak dikkat edin, bağımlılık yapabilir.
 
-{{< button "Daha Fazlası" "/bizeulasin/" >}}
+{{< button "Daha Fazla Bilgi" "/yamacparasutu/" >}}
 
-![](/uploads/photos/5-min.jpg)
-
+![fethiye'de yamaç paraşütü](/uploads/photos/3-min.jpg)
 {{< /brick_title2 >}}
 
-<script>
-        (function(d, s, id) {
-            if (d.getElementById(id)) {
-                if (window.__TOMORROW__) {
-                    window.__TOMORROW__.renderWidget();
-                }
-                return;
-            }
-            const fjs = d.getElementsByTagName(s)[0];
-            const js = d.createElement(s);
-            js.id = id;
-            js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+{{< brick_title2 >}}
+# ‎ 
+# Teleferik Seçeneği
+# ‎ 
+#### Ölüdeniz ve Babadağ'ın muhteşem manzarasını teleferikle keşfedin, bu 25 dakikalık yolculuk sizi dağın tepesine, 1700 metre yüksekliğe kadar götürecektir.
+# ‎ 
+{{< button "Daha Fazla Bilgi" "/teleferik/" >}}
 
-            fjs.parentNode.insertBefore(js, fjs);
-        })(document, 'script', 'tomorrow-sdk');
-        </script>
+![babadag telefirik fiyatları](/uploads/Background/babadagtelefirik.jpg)
+{{< /brick_title2 >}}
 
- <div class="tomorrow"
-           data-location-id="107640"
-           data-language="TR"
-           data-unit-system="METRIC"
-           data-skin="light"
-           data-widget-type="upcoming"
-           style="padding-bottom:22px;position:relative;"
-        >
-          <a
-            href="https://www.tomorrow.io/weather-api/"
-            rel="nofollow noopener noreferrer"
-            target="_blank"
-            style="position: absolute; bottom: 0; transform: translateX(-50%); left: 50%;"
-          >
-            <img
-              alt="Powered by the Tomorrow.io Weather API"
-              src="https://weather-website-client.tomorrow.io/img/powered-by.svg"
-              width="250"
-              height="18"
-            />
-          </a>
-        </div>
-{{< brick_intro >}}
-
-# Turlarımıza Göz Atın
-
-Çok sayıda tur seçeneğimiz var! Ekibimiz, Fethiye'nin harikalarını keşfetmek için muhteşem deneyimler tasarlamış tutkulu ve deneyimli profesyonellerden oluşuyor. Daha fazla bilgi için bizimle iletişime geçmekten çekinmeyin.
-
-{{< button "- Bütün Turlarımız -" "/turlar/" >}}
-
-![](/uploads/illustrations/cuate/traveller2.svg)
-
-
-{{< /brick_intro >}}
 {{< brick_image2 >}}
 
-## Fethiye'nin Harikalarını Keşfedin
- 
-![](/uploads/illustrations/cuate/Journey-amico-2.svg)
+## Tur Seçimlerimiz
+![fethiye aktiviteleri](/uploads/photos/all.jpg)
+### 📍 Muğla, Fethiye
 
-Fethiye'deki noktamıza hoş geldiniz, tam Ölüdeniz Plajı'nın yanında! Sizi en iyi zamanı geçirmeniz için bekliyoruz. Uçmayı seviyorsanız yamaç paraşütüyle yükseklere çıkın ya da dalmayı tercih ediyorsanız su altını keşfedin, her türlü aktiviteye uygunuz. At binme turu yapın, tekne gezisi için hazırlanın veya şehir turlarımızdan birine katılın. Havalimanına gitmek ve gelmek konusunda endişelenmeyin - transferlerimiz tamamen sizin için hazır. Unutamayacağınız bir maceraya bizimle katılın!
+Seçmek için bolca turumuz var! Ekibimiz, **Fethiye**'nin harikalarını keşfetmek için inanılmaz deneyimler tasarlayan tutkulu ve deneyimli profesyonellerden oluşmaktadır.
 
-- **Ücretsiz** Transfer
-- Konaklama Önerileri ve Rezervasyonu
-- **En Uygun Fiyat** Garantisi
-- Hızlı İletişim
-- Yüksek Sigorta
+{{< button "Tüm Turlarımıza Bakın" "/turlar/" >}}
 
 {{< /brick_image2 >}}
-{{< brick_image >}}
+{{< brick_title2 >}}
 
-## Güvenlik ve Memnuniyet Standartlarımızda Her Zaman Önceliklidir.
+#### 📍 Kelebekler Vadisi, Nicholas Adası, Deve Plajı... 
+# Ölüdeniz Tekne Turu
+## <u> 1600 TL</u>
+![Ölüdeniz](/uploads/photos/boat.jpg)
 
-![](/uploads/illustrations/cuate/Advantages-bro.svg)
+#### Her durağın yaklaşık 30 ila 60 dakikalık planlı molalarıyla, her olağanüstü noktayı rahatça gezin ve keşfedin. Unutulmaz anlarla dolu bir Ölüdeniz tekne turu macerası için bize katılın!
 
-Amacımız, dünya genelinde herkes için eğlenceli ve eğitici etkinlikler sunmaktır. Güvenliğiniz ve mutluluğunuz bizim önceliklerimizdir. Bu nedenle, **eğitmenlerimiz, rehberlerimiz ve ekipman sağlayıcılarımız** tarafından kullanılan tüm ekipmanları güvenli ve güvenilir olduğundan emin olmak için titizlikle **kontrol ediyoruz.**
+{{< button2 "Daha Fazla Oku" "/oludeniztekneturu/" >}}
+{{< /brick_title2 >}}
 
+{{< brick_image2 >}}
+# ‎ 
 
-{{< /brick_image >}}
+![paragliding at ölüdeniz](/uploads/gallery/paragliding.png)
+
+## Fethiye'deki Yeriniz
+Ölüdeniz Plajı'nın hemen yanındaki yerimize hoş geldiniz! Sizi en iyi zamanı geçirmeniz için buradayız. Yamaç paraşütüyle yükseklerde uçmaktan veya dalışla su altını keşfetmekten hoşlanıyor olun, biz sizi kapsadık. At binmeyi deneyin, tekne turuna çıkın veya şehir turlarımızdan birine katılın. Havaalanına ulaşımınızla ilgilenmenize gerek yok - transferleri hallettik. Unutamayacağınız bir maceraya katılmak için bize katılın!
+
+{{< button2 "Biz Kimiz" "/hakkimizda/" >}}
+{{< /brick_image2 >}}
+
 {{< brick_reviews >}}{{< /brick_reviews >}}
-{{< brick_prices >}}
-## Dostane Fiyatlandırmamız
 
-Sizlere grup indirimleri ve aile indirimleri sunmaktan memnuniyet duyuyoruz. Size özel avantajlı düzenlemeleri görüşmek için bizimle iletişime geçmekten çekinmeyin.
+{{< brick_prices >}}
+
+## Fiyatlarımız
+
+Grup indirimleri ve aile indirimleri sunmaktan mutluluk duyuyoruz. Lütfen ihtiyaçlarınıza uygun potansiyel olarak avantajlı düzenlemeleri tartışmak için bize ulaşmaktan çekinmeyin.
 
 ---
 
-**Extreme**
-### Yamaç Paraşütü
+**Ekstrem**
+### Tandem Yamaç Paraşütü
 
-![Ölüdeniz Paragliding](/uploads/photos/fp.jpg)
+![Ölüdeniz Yamaç Paraşütü](/uploads/photos/fp.jpg)
 
-Flyspot'taki deneyimli pilotlarımız, dünyanın en iyi kalkış noktası olarak ün salmış Babadağ'da unutulmaz bir yamaç paraşütü macerası yaşamanızı sağlarlar. Ölüdeniz'deki ofisimizden konforlu bir şekilde alınıp, klimalı lüks aracımızla 30 dakikalık keyifli bir yolculuğun ardından kalkış alanına ulaşacaksınız. Zirvede, rüzgar koşullarına bağlı olarak 1.200 metreden 1.960 metreye kadar değişen kalkış noktalarından birinde uçuş gerçekleştiriyoruz.
+Deneyimli pilotlarımız, dünyanın en iyi kalkış noktası olarak ünlenen Babadağ'da unutulmaz bir yamaç paraşütü macerasını garanti eder. Ölüdeniz'deki ofisimizden rahatlıkla alınacak, klimalı lüks arabamızda dağın zirvesine 30 dakikalık rahat bir yolculuk yapacaksınız. Zirvede, rüzgar koşullarına bağlı olarak 1.200 metreden 1.960 metreye kadar kalkış noktalarından seçim yapabilirsiniz.
 
-### _₺_**4000**
+### _$_**150**/Uçuş
 
 - Sigorta
-- Dağ Giriş Ücreti
+- Giriş Ücreti
 - Transfer
-- 360 Görüntüler + Resim & Video
+- 360 Derece Görüntüler + Fotoğraflar ve Videolar
 
-[Rezervasyon Yap](/bizeulasin/)
-
----
-
-**En Populer**
-
-![Ölüdeniz yamaçparaşütü ve dalış](/uploads/photos/dp.png)
-
-### Uç Ve Dal
-
-
-Muhteşem bir tatil macerasına başlamak için özel tur paketimizle heyecan verici bir yolculuğa çıkın. Akdeniz koylarının berrak sularında dalış yapmanın heyecanıyla Scuba Diving'i ve Ölüdeniz üzerinde Flyspot ile yamaç paraşütü yapmanın nefes kesen deneyimini bir araya getiren bu özel tur paketiyle unutulmaz anlar yaşayın.
- 
-### _₺_**5300**
-
-- Akdeniz koylarında dalış.
-- Ölüdeniz üzerinde nefes kesen yamaç paraşütü deneyimi.
-- Önceden dalış tecrübesi veya yüzme becerisi gerektirmez.
-- Her iki etkinlik için de tam ekipman ve ayarlamalar sağlanır.
-- Oteliniz veya konutunuzdan kolaylıkla ulaşım sağlayan transfer hizmeti.
-
-[Hemen Ulaşın](/bizeulasin/)
+[Şimdi Rezervasyon Yapın](/tr/get-started/)
 
 ---
 
-**Boat Trip**
+**En Popüler**
+![Ölüdeniz Yamaç Paraşütü ve Dalış](/uploads/photos/dp.png)
+### Uç ve Dal
 
-![Ölüdeniz blue lagoon](/uploads/photos/boat.jpg)
+Akdeniz koylarının berrak sularında dalış yapma heyecanını, Scuba Dalışı ile birleştirilmiş özel tur paketimizle yaşayın. Ölüdeniz üzerinde yamaç paraşütü yapmanın nefes kesici deneyimi ile tatilinize heyecan katın.
+
+### _$_**200**
+
+- Akdeniz koylarında dalış macerası
+- Ölüdeniz üzerinde nefes kesici yamaç paraşütü deneyimi.
+- Daha önce dalış deneyimi veya yüzme becerileri gerekmez.
+- Her iki etkinlik için tam ekipman ve ayarlar sağlanır.
+- Oteliniz veya konutunuzdan rahat transfer servisi.
+
+[Rezervasyon Yap](/tr/get-started/)
+
+---
+
+**Tekne Turu**
+
+![Ölüdeniz Mavi Lagün](/uploads/photos/boat.jpg)
 
 ### Ölüdeniz Tekne Turu
 
-Fethiye'nin en sevilen tekne turunu keşfedin. Kelebekler vadisi - Akvaryum Koyu - Gemiler Adası - Deve Plajı ve Soğuk suda Keyifli Bir Vakit Geçirin. Detaylar için Bu linkden Göz Atabilirsiniz. 
-
-[Ölüdeniz Tekne Turu Detayları](/oludeniztekne/)
-
+En sevilen Fethiye tekne turunu keşfedin, eşsiz ve unutulmaz bir tatil deneyimi sunan. Yüksek kaliteli hizmetlerimiz, hem arabalarımızda hem de teknelerimizde dinlenme için lüks alanlar sağlar. Arkadaş canlısı personelimiz, sizi ilgi çekici çeşitli noktaları ziyaret ettiğiniz harika bir güne eşlik eder. Kişisel harcamalar için nakit getirmeyi unutmayın. Kalıcı anlar ve olağanüstü tatil neşesi ile dolu bir gün için hemen rezervasyon yapın!
 
 ### _$_**50**
 
-- Lunch
+- Öğle Yemeği
 - Transfer
-- Insurance
+- Sigorta
 
-[İletişime Geç](/bizeulasin/)
+[Rezervasyon Yap](/tr/get-started/)
 
 {{< /brick_prices >}}
 {{< brick_title >}}
-{{< button "Check All Our Tours" "/Tours/" >}}
+{{< button "Tüm Turlarımızı Kontrol Edin" "/turlar/" >}}
 {{< /brick_title >}}
-{{< brick_cta >}}{{< /brick_cta >}}
 
+---
+{{< brick_cta >}}{{< /brick_cta >}}

@@ -10,12 +10,14 @@ categories: ["Tours", "Fethiye", "Horse Riding"]
 author: "Atamantra"
 tags: ["Horse Riding", "Fethiye", "Tours"]
 draft: false
-language: "English"
+language: "en"
 ---
 
 {{< brick_title2 >}}
-#
-
+# ‎ 
+# ‎ 
+## Horse Riding 
+#### 📍 Fethiye, Ovacık
 ![Oludeniz](/uploads/Background/horseriding.webp)
 
 
@@ -23,7 +25,6 @@ language: "English"
 {{< /brick_title2 >}}
 
 {{< tabs >}}
----
 ## About Our Farm
 {{< brick_title >}}
 We, Turks have always been together with horses and adoring them since we came into the world. Horses are already our irreplaceable, reliable close friends. Horse riding is one of the best activities which you can try during staying in Fethiye. There’re two routes for the tour. If you like, you can follow paths in the forest and take a broad view of Fethiye, or start from Hisarönü and excursion to Kayaköy. We guarantee your pleasant time.
@@ -39,7 +40,7 @@ We, Turks have always been together with horses and adoring them since we came i
 ---
 ## FAQ
 {{< brick_title2 >}}
-{{< faq 4 >}}
+{{< faq 3 >}}
 {{< /brick_title2 >}}
 ---
 {{< /tabs >}}

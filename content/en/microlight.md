@@ -29,7 +29,7 @@ language: "English"
 {{< brick_wide >}}
 
 ### What To See?
-With a Microlight tour in [Dalyan Delta](dalyan), you will have the opportunity to see the Rock Tombs, the Ancient City of **Kaunos**, the **Dalyan Delta**, and the **Iztuzu Beach** from a bird's-eye view, all of which are undoubtedly worth seeing. Moreover, there's nothing quite like observing the loggerhead sea turtles and fish in the sea from above during the summer season.
+With a Microlight tour in [Dalyan Delta](dalyan), you will have the opportunity to see the Rock Tombs, the Ancient City of [**Kaunos**](/posts/kaunos/), the **Dalyan Delta**, and the [**Iztuzu Beach**](/posts/iztuzu/) from a bird's-eye view, all of which are undoubtedly worth seeing. Moreover, there's nothing quite like observing the loggerhead sea turtles and fish in the sea from above during the summer season.
 ### How Long Does The Microlight Flight Take?
 Microlight flights operate at an altitude of **300-400 meters**, with a total flight time of **17 to 20 minutes**, excluding takeoff and landing time (engine start-up and shutdown). There may be a slight variation of 2-3 minutes depending on **weather conditions.**
 ### What Are The Limits?
@@ -40,6 +40,16 @@ You only need to come dressed appropriately for the season for the flight. Howev
 {{< button2 "Book Now" "/microlight/booking/" >}}
 {{< map "/uploads/micromap.png" "https://maps.app.goo.gl/KxC4tPTY6Lcwh7A36" >}}
 
+
+
+<div id="TA_cdswritereviewlgvi291" class="TA_cdswritereviewlgvi">
+<ul id="Z8jp6Sn6" class="TA_links glItXIgcHm1M">
+<li id="LOlkeiZQDOFV" class="NSfGPUEd">
+<a target="_blank" href="https://www.tripadvisor.com/"><img src="https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script async src="https://www.jscache.com/wejs?wtype=cdswritereviewlgvi&amp;uniq=291&amp;locationId=27509326&amp;lang=en_US&amp;lang=en_US&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
 {{< /brick_wide >}}
 {{< brick_cta >}}{{< /brick_cta >}}
 
@@ -53,3 +63,4 @@ You only need to come dressed appropriately for the season for the flight. Howev
 {{< brick_cta >}}{{< /brick_cta >}}
 ---
 {{< /tabs >}}
+

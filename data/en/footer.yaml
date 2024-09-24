@@ -7,15 +7,21 @@ menuitems:
     link:  /contact/
   - title: Privacy policy
     link:  /privacy-policy/
+  - title:  Cookies 🍪
+    link:  /consent/
+  - title:  FAQ's 
+    link:  /faq/
+  - title: Tours
+    link:  /tours/
 socials:
   - title: Instagram
     link: https://instagram.com/flyspotairsports
-    logo_image: /img/instagram.svg
-  - title: Twitter
-    link: https://twitter.com/flyspotairsports
-    logo_image: /img/twitter.svg      
-  - title: Facebook
-    link: https://facebook.com/flyspotairsports
-    logo_image: /img/facebook.svg      
-
-footer_text: Flyspot™ All rights reserved
+    logo_image: /uploads/icon/instagram.svg
+  - title: Whatsapp
+    link: https://wa.me/905339230963
+    logo_image: /uploads/icon/whatsapp.svg
+  - title: Telegram
+    link: https://telegram.me/Atamantra
+    logo_image: /uploads/icon/telegram.svg
+  
+footer_text: Flyspot™ All rights reserved - Tursab No.15437

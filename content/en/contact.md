@@ -1,6 +1,10 @@
 ---
 title: Contact us
 ---
+{{< brick_title2 >}}
+# ‎ 
+![ flyspot office interior](/uploads/gallery/office.jpeg)
+{{< /brick_title2 >}}
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
@@ -16,10 +20,16 @@ Welcome to Flyspot! Let our expert team take care of your travel needs. Contact 
 
 Our dedicated team of professionals is here to ensure that your travel experience is seamless and memorable. From booking your flights to assisting with any inquiries or special requests you may have, we are committed to providing exceptional service every step of the way.
 
-Ölüdeniz, Fethiye, 
-Atatürk Cd. No:1/6
+Our Adress:
 
+ÖLÜDENİZ MAHALLESİ DENİZPARK CADDESİ BELCEKUM 2 SİTESİ NO:15 DAİRE:2/AB - 48300 FETHİYE - MUĞLA
+
+[click to get directions](https://www.google.com/maps/dir//flyspot+paragliding+oludeniz/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x14c041b08115ecdd:0x8cd012d67a863fc2?sa=X&ved=1t:3061&ictx=111)
+
+#
 +905339230963
+
++905350223287
 
 ![General Data Protection Regulation Approved Form From Formspree.io](/uploads/secure/gdpr.svg)
 ![California Consumer Privacy Act Approved Form From Formspree.io](/uploads/secure/ccpa.svg)
@@ -67,6 +77,6 @@ Atatürk Cd. No:1/6
           </a>
         </div>
         {{< brick_title >}}
-<div style="width:448px;border:1px solid #1684A5;"><div style="text-align:center;background-color:#1684A5;height:30px;width:100%;font-size:17px;font-weight:bold;padding-top:2px;"><a href="" style="color:#FFFFFF;text-decoration:none;" rel="nofollow">Currency Converter</a></div><script type="text/javascript" src="https://www.exchangeratewidget.com/converter.php?l=en&f=TRY&t=USD&a=4850&d=F0F0F0&n=FFFFFF&o=050505&v=2"></script></div>
+
 {{< /brick_title >}}
 {{< brick_map >}}{{< /brick_map >}}
